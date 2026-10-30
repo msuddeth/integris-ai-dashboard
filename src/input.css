@@ -1,0 +1,56 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  h1, h2, h3, h4 { @apply font-display tracking-tight; }
+}
+
+@layer components {
+  .btn-primary { @apply inline-flex items-center gap-2 rounded-btn bg-brand-red px-5 py-3 text-brand-on-red border border-brand-red-dark hover:bg-brand-red-dark transition; }
+  .btn-secondary { @apply inline-flex items-center gap-2 rounded-btn bg-brand-purple px-5 py-3 text-brand-on-purple border border-brand-purple-dark hover:bg-brand-purple-dark transition; }
+  .hero-bg { background: var(--hero-bg); position: relative; overflow: hidden; }
+  .watermark { @apply pointer-events-none absolute -right-4 top-6 select-none whitespace-nowrap font-display text-[7rem] font-bold uppercase leading-none sm:text-[11rem]; color: transparent; -webkit-text-stroke: 1px rgb(255 255 255 / .10); }
+  .nav-sep { @apply select-none text-gray-300; }
+
+  /* Rendered markdown */
+  .report { overflow-wrap: break-word; }
+  .report table { @apply block w-full overflow-x-auto text-sm; }
+  .report th { @apply bg-brand-plum text-white font-semibold px-3 py-2 text-left; }
+  .report td { @apply px-3 py-2 align-top; }
+  .report tr:nth-child(even) td { @apply bg-brand-mist; }
+  .report blockquote { @apply not-italic bg-brand-mist rounded-md py-1 px-4 border-l-4 border-brand-purple; }
+  .report blockquote p:first-of-type::before, .report blockquote p:last-of-type::after { content: none; }
+  .report h2 { @apply mt-12 pb-2 border-b border-gray-200; }
+  .report section.issues { @apply rounded-xl border border-brand-red/30 bg-brand-red/5 px-6 py-1 mt-12; }
+  .report section.issues h2 { @apply text-brand-accent border-brand-red/20; }
+  .report code { @apply text-brand-purple before:content-none after:content-none; overflow-wrap: anywhere; }
+  .report pre code { overflow-wrap: normal; color: #E9E3EF; }
+
+  /* AI page example: gap highlighting */
+  .gap-badge { @apply ml-1 inline-block rounded bg-brand-orange px-1.5 py-0.5 align-middle text-xs font-semibold uppercase tracking-wide text-brand-plum-deep; }
+  .gap-note { @apply my-6 rounded-lg border-l-4 border-brand-orange bg-brand-orange/10 px-5 py-3 text-[0.95rem] text-brand-ink; }
+  .gap-note p { @apply my-2; }
+  .hide-gaps .gap-note, .hide-gaps .gap-badge, .hide-gaps .gap-only { display: none !important; }
+  .changelog h2 { @apply text-brand-purple; }
+  .changelog h2:first-of-type { @apply mt-4; }
+
+  /* Seller cards */
+  .conflict-badge { @apply ml-1 inline-block rounded bg-brand-red px-1.5 py-0.5 align-middle text-xs font-semibold uppercase tracking-wide text-brand-on-red; }
+  .seller-card { @apply overflow-hidden rounded-2xl border border-gray-200 bg-white shadow-sm; }
+  .seller-card-head { @apply border-b-4 border-brand-red bg-brand-plum px-6 py-4 text-white; }
+  .seller-card-head h3 { @apply text-2xl font-bold; }
+  .seller-card-kicker { @apply text-xs font-semibold uppercase tracking-widest text-brand-orange; }
+  .seller-card-sub { @apply mt-1 text-sm text-white/75; }
+  .seller-card-sub code { @apply rounded bg-white/10 px-1 text-white; }
+  .seller-card-body { @apply divide-y divide-gray-100 px-6 py-2 text-sm; }
+  .seller-card-body > div { @apply grid gap-1 py-3 sm:grid-cols-[150px_1fr] sm:gap-4; }
+  .seller-card-body dt { @apply font-semibold text-brand-gray; }
+  .seller-card-body dd { @apply text-brand-ink; }
+  .seller-card-body .why { @apply mt-1 block text-[0.85rem] text-gray-600; }
+  .tree-ok, .tree-fix, .tree-new, .tree-later { @apply ml-1 rounded px-1.5 py-0.5 font-sans text-[0.7rem] font-semibold uppercase tracking-wide; }
+  .tree-ok { @apply bg-emerald-500/20 text-emerald-200; }
+  .tree-fix { @apply bg-brand-orange/25 text-orange-200; }
+  .tree-new { @apply bg-brand-red text-brand-on-red; }
+  .tree-later { @apply bg-white/10 text-white/70; }
+}

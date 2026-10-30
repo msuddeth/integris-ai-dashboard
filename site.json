@@ -1,0 +1,222 @@
+{
+  "brand": "Integris",
+  "product": "AI View",
+  "title_suffix": "Integris AI View",
+  "domain": "integrisit.com",
+  "captured": "October 29, 2026",
+  "lang": "en",
+  "scope_note": "Blog and subdomains excluded.",
+  "hero_sub": "Every top-level page, read the way ChatGPT, Claude, Perplexity and Google's AI Overviews read it — what they take away, what they miss, and what they get wrong.",
+  "wordmark": {
+    "light": "Integris<span class=\"text-brand-red\">.</span>",
+    "dark": "Integris<span class=\"text-brand-red\">.</span>"
+  },
+  "theme": {
+    "fonts_href": "https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Inter+Tight:wght@500;600;700;800&display=swap",
+    "font_sans": "Inter",
+    "font_display": "\"Inter Tight\", Inter",
+    "radius": "3px",
+    "hero_bg": "radial-gradient(1200px 500px at 85% 10%, rgba(241,134,20,.25), transparent 60%), radial-gradient(900px 500px at 10% 90%, rgba(206,0,25,.25), transparent 60%), linear-gradient(135deg, #29182F 0%, #3A2742 45%, #532C99 100%)",
+    "colors": {
+      "red": "206 0 25",
+      "red-dark": "194 0 13",
+      "on-red": "255 255 255",
+      "accent": "206 0 25",
+      "purple": "83 44 153",
+      "purple-dark": "71 32 141",
+      "on-purple": "255 255 255",
+      "plum": "58 39 66",
+      "plum-deep": "41 24 47",
+      "orange": "241 134 20",
+      "gray": "102 102 102",
+      "ink": "10 10 10",
+      "mist": "246 244 248"
+    }
+  },
+  "groups": [
+    [
+      "solutions",
+      "Home & Solutions",
+      [
+        "01",
+        "02",
+        "03",
+        "04",
+        "05",
+        "06",
+        "07"
+      ]
+    ],
+    [
+      "industries",
+      "Industries",
+      [
+        "08",
+        "09",
+        "12",
+        "13",
+        "14"
+      ]
+    ],
+    [
+      "pricing-resources",
+      "Pricing & Resources",
+      [
+        "15",
+        "16"
+      ]
+    ],
+    [
+      "company",
+      "Company",
+      [
+        "17",
+        "18",
+        "19",
+        "20",
+        "21",
+        "22"
+      ]
+    ],
+    [
+      "support-legal",
+      "Contact, Support & Legal",
+      [
+        "23",
+        "24",
+        "25",
+        "26"
+      ]
+    ]
+  ],
+  "nav": [
+    [
+      "Findings",
+      "#findings"
+    ],
+    "|",
+    [
+      "Solutions",
+      "#solutions"
+    ],
+    [
+      "Industries",
+      "#industries"
+    ],
+    [
+      "Resources",
+      "#pricing-resources"
+    ],
+    [
+      "Company",
+      "#company"
+    ],
+    [
+      "Support",
+      "#support-legal"
+    ],
+    "|",
+    [
+      "Integris AI Page example",
+      "page:ai-page-example"
+    ],
+    [
+      "Seller cards",
+      "page:seller-cards"
+    ],
+    [
+      "Scorecard",
+      "page:scorecard"
+    ],
+    [
+      "Change log",
+      "page:changelog"
+    ]
+  ],
+  "example": {
+    "href": "pages/ai-page-example.html",
+    "label": "Integris AI Page example"
+  },
+  "compare": {
+    "label": "See how First Focus compares",
+    "rel": "firstfocus/index.html",
+    "abs": "https://crlkysr.github.io/integris_AI_recommendations/firstfocus/"
+  },
+  "downloads": {
+    "html": "integris-ai-view.html",
+    "zip": "integris-ai-view-site.zip"
+  },
+  "stats": [
+    {
+      "value": "{pages}",
+      "label": "pages reviewed",
+      "color": "red"
+    },
+    {
+      "value": "{issues}",
+      "label": "issues flagged by AI",
+      "color": "red"
+    },
+    {
+      "value": "{open_fixes}",
+      "label": "high-priority fixes open",
+      "color": "purple"
+    },
+    {
+      "value": "3",
+      "label": "different company ages AI reads",
+      "color": "purple"
+    },
+    {
+      "value": "0",
+      "label": "AI buying agents that can use the discovery form",
+      "color": "red",
+      "cls": "col-span-2 md:col-span-1"
+    }
+  ],
+  "callout": {
+    "text": "No AI buying agent can book a discovery session today. See why, and how to fix it with HubSpot.",
+    "href": "pages/seller-cards.html#form"
+  },
+  "score": {
+    "this": "34",
+    "other": "56",
+    "other_name": "First Focus",
+    "blurb": "Ten criteria, 10 points each, applied to integrisit.com and firstfocus.com.au."
+  },
+  "promos": [
+    {
+      "tone": "purple",
+      "kicker": "What good looks like",
+      "title": "An AI info page for Integris",
+      "text": "First Focus, now part of Integris, publishes a fact sheet written for AI assistants. This draft builds the same page for Integris from public information only and marks every gap where Integris doesn't publish what an AI would need.",
+      "href": "pages/ai-page-example.html",
+      "label": "Integris AI Page example"
+    },
+    {
+      "tone": "red",
+      "kicker": "Agentic search",
+      "title": "Seller cards for AI buying agents",
+      "text": "Examples to model on, Integris's company and service cards filled with what's public today, where the cards belong in the site, and the fix for the discovery form.",
+      "href": "pages/seller-cards.html",
+      "label": "View seller cards"
+    }
+  ],
+  "templates": [
+    [
+      "ai-page-example.html",
+      "ai-page-example.html",
+      "Integris AI Page example"
+    ],
+    [
+      "seller-cards.html",
+      "seller-cards.html",
+      "Seller cards for AI buying agents"
+    ],
+    [
+      "scorecard.html",
+      "scorecard.html",
+      "How Integris and First Focus compare"
+    ]
+  ]
+}
