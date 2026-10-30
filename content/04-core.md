@@ -3,7 +3,9 @@
 **URL:** https://integrisit.com/services/core/
 **Captured:** October 29, 2026, through an AI web reader
 
-> Everything below is the AI's own reading of the page as served.
+**Last checked:** October 30, 2026 — targeted review of earlier flagged issues; original narrative retained except where explicitly refreshed.
+
+> Original reading: October 29, 2026. Flagged issues and metadata rechecked October 30, 2026 at 9:43 AM CDT. Earlier descriptive sections are retained unless corrected below. Initial HTML was read without JavaScript; browser-dependent results are identified explicitly.
 
 ## Metadata
 
@@ -13,8 +15,9 @@
 | og:title | CORE Managed Services \| Integris |
 | Meta description | Explore Intelligent Managed Services that integrate AI, cybersecurity, and strategic guidance for continuous business improvement. |
 | Canonical | https://integrisit.com/services/core |
-| Robots | index, follow |
-| Last modified | 2026-10-27 |
+| Robots | index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1 |
+| Last modified | 2026-10-29T17:08:30+00:00 |
+| Rechecked | October 30, 2026 at 9:43 AM CDT |
 
 ## Heading structure
 
@@ -63,3 +66,9 @@ Support for Microsoft Copilot, ChatGPT and Claude deployments; 24×7 service des
 - **Unsupported:** 2.8x ROI has no methodology; Shamrock isn't described (industry, size); "your business is protected" overstates.
 - **Naming drift:** image alt text says "CORE Managed AI and IT Services," the nav says "CORE Intelligent Managed Services," the og:title says "CORE Managed Services."
 - **Leftover UI:** stray "Expand" labels.
+
+## Rescan — October 30, 2026
+
+Previously open findings: **7**. Open after this rescan: **7**. Each top-level bullet counts once; grouped concerns are not split into extra issues. Verified resolutions and audit corrections are excluded. Remaining subjective recommendations are not independently proven defects.
+
+Source: [https://integrisit.com/services/core/](https://integrisit.com/services/core/). Fresh HTML returned HTTP 200; no forms were submitted.

@@ -3,17 +3,21 @@
 **URL:** https://integrisit.com/about/press/
 **Captured:** October 29, 2026, through an AI web reader
 
-> Everything below is the AI's own reading of the page as served.
+**Last checked:** October 30, 2026 — targeted review of earlier flagged issues; original narrative retained except where explicitly refreshed.
+
+> Original reading: October 29, 2026. Flagged issues and metadata rechecked October 30, 2026 at 9:43 AM CDT. Earlier descriptive sections are retained unless corrected below. Initial HTML was read without JavaScript; browser-dependent results are identified explicitly.
 
 ## Metadata
 
 | Field | Value |
 |---|---|
-| Title tag / og:title | Press \| Integris |
+| Title tag | Press \| Integris |
+| og:title | Press \| Integris |
 | Meta description | Download Integris logos, access press releases, and see content about Integris. |
 | Canonical | https://integrisit.com/about/press/ |
-| Robots | index, follow |
-| Last modified | 2026-09-29 |
+| Robots | index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1 |
+| Last modified | 2026-10-27T18:00:00+00:00 |
+| Rechecked | October 30, 2026 at 9:43 AM CDT |
 
 ## Heading structure
 
@@ -25,7 +29,7 @@
 
 ## What the AI takes away
 
-Brand logos, a fact sheet, leadership bios and headshots, a press contact, and press releases from March to September 2026.
+Brand logos, leadership bios and headshots, a press email address, and press releases from March to September 2026. The old fact-sheet link is absent on this rescan.
 
 ## Press releases the AI listed (paraphrased titles)
 
@@ -49,7 +53,13 @@ Brand logos, a fact sheet, leadership bios and headshots, a press contact, and p
 ## Issues the AI flagged
 
 - **"News coverage" promised, none shown** — only Integris-issued releases.
-- **Outdated fact sheet:** file name says June 2025.
-- **International expansion** (Australia, NZ, Philippines via First Focus) appears here but nowhere else on the main site — the homepage and About still describe a U.S.-only footprint.
+- ~~Outdated fact sheet: file name says June 2025.~~ ✅ **Verified resolved** (October 30, 2026). The June 2025 fact-sheet link is no longer present in the press-kit section. This confirms removal, not replacement of the PDF.
+- **Main company pages still emphasize a U.S. footprint:** international expansion appears in press releases and the Leadership biography now mentions the First Focus acquisition. The earlier only-in-press assertion is too broad.
 - **Unrelated og:image** ("degraw-txcpa.jpeg," 2022).
 - **No named press contact** or response time.
+
+## Rescan — October 30, 2026
+
+Previously open findings: **5**. Open after this rescan: **4**. Each top-level bullet counts once; grouped concerns are not split into extra issues. Verified resolutions and audit corrections are excluded. Remaining subjective recommendations are not independently proven defects.
+
+Source: [https://integrisit.com/about/press/](https://integrisit.com/about/press/). Fresh HTML returned HTTP 200; no forms were submitted.

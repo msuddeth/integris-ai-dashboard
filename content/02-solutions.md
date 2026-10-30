@@ -3,7 +3,9 @@
 **URL:** https://integrisit.com/services/
 **Captured:** October 29, 2026, through an AI web reader
 
-> Everything below is the AI's own reading of the page as served.
+**Last checked:** October 30, 2026 — targeted review of earlier flagged issues; original narrative retained except where explicitly refreshed.
+
+> Original reading: October 29, 2026. Flagged issues and metadata rechecked October 30, 2026 at 9:43 AM CDT. Earlier descriptive sections are retained unless corrected below. Initial HTML was read without JavaScript; browser-dependent results are identified explicitly.
 
 ## Metadata
 
@@ -13,9 +15,9 @@
 | og:title | IT Services Tailored to Your Business Needs \| Integris |
 | Meta description | Integris offers expert outsourced IT services to streamline operations & enhance efficiency. Get a consultation on your IT strategy today. |
 | Canonical | https://integrisit.com/services/ |
-| Robots | index, follow |
-| og:type | article |
-| Last modified | 2026-10-16 |
+| Robots | index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1 |
+| Last modified | 2026-10-16T13:14:09+00:00 |
+| Rechecked | October 30, 2026 at 9:43 AM CDT |
 
 ## Heading structure
 
@@ -48,3 +50,9 @@ Integris offers fully managed, co-managed and flexible service plans with full c
 - **Label/URL mismatch:** "Managed Cloud" points to `/managed-infrastructure-services/`.
 - **og:type "article"** on a services landing page.
 - **Missing alt text** on the Managed IT and CORE card images.
+
+## Rescan — October 30, 2026
+
+Previously open findings: **7**. Open after this rescan: **7**. Each top-level bullet counts once; grouped concerns are not split into extra issues. Verified resolutions and audit corrections are excluded. Remaining subjective recommendations are not independently proven defects.
+
+Source: [https://integrisit.com/services/](https://integrisit.com/services/). Fresh HTML returned HTTP 200; no forms were submitted.

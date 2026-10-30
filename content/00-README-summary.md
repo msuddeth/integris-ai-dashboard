@@ -3,13 +3,15 @@
 **Prepared:** October 29, 2026
 **Scope:** 24 top-level pages on integrisit.com — every page in the main navigation and footer. The /blog/ directory and the separate events and trust-center subdomains were not read.
 
-**Last rescanned:** October 29, 2026 at 3:04 pm ET. The Community Banks and Credit Unions pages have been removed and now forward to Financial Institutions, so they are no longer reviewed here. See the [change log](changelog.md) for what has been fixed since the first scan.
+**Last rescanned:** October 30, 2026 at 9:43 AM CDT. All 24 previously reviewed pages returned HTTP 200. Open findings: **149 → 137** (7 verified resolutions, 6 closed audit corrections, and 1 previously uncounted open Leadership finding restored). This is a flagged-issue rescan, not a new whole-site audit or a rescore. See the [change log](changelog.md).
 
 ## How this was done
 
-Each page was read with an AI web reader — the same fetch-and-summarize approach AI assistants (Claude, ChatGPT, Perplexity, Copilot, Google AI Overviews) use when someone asks them about Integris. The AI was asked to report each page's metadata, structure, what it understood Integris offers, the claims it picked up, and anything that looked wrong or missing.
+The original review is dated October 29. On October 30, 2026 at 9:43 AM CDT, previously flagged issues on all 24 pages were checked using fresh HTTP fetches with cache-control headers. Script, style and tracking markup was separated from readable page content; metadata and links were checked in the HTML. Contact and Privacy were also inspected in a JavaScript-enabled browser. No form was filled or submitted.
 
-**Important:** the AI reader does not run JavaScript, play video, or fill in embedded widgets. Anything that only appears that way — testimonial videos, the pricing calculator, contact and booking forms, the job board — is invisible to it. Where a file says "missing," that is what an AI concluded, even if a human visitor would see it.
+**Scope and limits:** this method tests what a non-JavaScript reader receives; it does not replicate every AI assistant. A missing field in initial HTML does not establish universal agent failure. Verified resolutions and earlier audit errors are shown separately. Remaining editorial recommendations are counted as open findings, not proven technical defects. Original descriptive content remains historical where not explicitly refreshed. First Focus and the October 29 comparison scores were not rescanned.
+
+**Cache discrepancy:** a search-reader copy showed a broader privacy policy, while both a fresh HTML fetch and a browser showed cookie-policy content at the same URL. The privacy finding remains open; the divergent response is recorded rather than treated as a verified fix.
 
 ## The overall picture
 
@@ -17,12 +19,12 @@ Each page was read with an AI web reader — the same fetch-and-summarize approa
 
 **Where AI gets confused or comes up empty:**
 
-1. **How old is Integris?** Pages say "founded in 2021" (About), "20+ years" (most service pages) and "30+ years" (Financial Institutions). Only the Leadership page explains the 1997 → 2021 lineage.
+1. **How old is Integris?** Pages say "founded in 2021" (About), "20+ years" (most service pages) and "30+ years" (Financial Institutions). The Leadership page explains the 1997 → 2021 lineage; that distinction should be made clearer on the other pages.
 2. **How big is Integris?** "115K endpoints" (home), "115" and "115k" on the same Managed IT page, "100k+ assets" elsewhere.
 3. **What does it cost?** Nothing. The Pricing page has no figures and the calculator is unreadable to AI.
-4. **What do clients say?** Testimonial sections on Managed IT, Cybersecurity, Managed Cloud and Financial Institutions come up empty for AI (video/widget), and the homepage's testimonial heading sits over blog posts. Named, text testimonials exist only on the Law Firms, Manufacturers and Pricing pages — and with Community Banks gone, no financial-institution client is quoted in text anywhere.
-5. **Proof of results.** One case study (Shamrock), described three different ways (80% productivity; four days → four hours; 2.8x ROI).
-6. **Where is Integris?** 18 U.S. offices are listed on Locations, but the international expansion via First Focus appears only in press releases.
+4. **What do clients say?** Testimonial sections on Managed IT, Cybersecurity, Managed Cloud and Financial Institutions come up empty for AI (video/widget), and the homepage's testimonial heading sits over blog posts. Named, text testimonials exist only on the Law Firms, Manufacturers and Pricing pages — the Financial Institutions service page lacks a named bank quote in its primary copy, while Pricing does quote Fayette Savings Bank.
+5. **Proof of results.** Resources now links two case studies, including Rensa Filtration dated October 30. The current listing no longer states the 80% Shamrock figure, so the old Resources-vs-CORE contradiction is closed. CORE still needs evidence and methodology for its ROI claim.
+6. **Where is Integris?** 18 U.S. offices are listed on Locations, but international expansion appears in press releases, and the Leadership biography mentions the First Focus acquisition; core company pages still emphasize the U.S.
 
 ## Highest-priority fixes
 
@@ -36,18 +38,18 @@ Each page was read with an AI web reader — the same fetch-and-summarize approa
 | 6 | **FAQ #19 answers the wrong question** (security packages → Managed IT benefits) | 05 |
 | 7 | **No readable pricing** of any kind | 15 |
 | 8 | **Privacy Statement is only a cookie policy**; Contact links to a 2025 archived privacy page | 23, 26 |
-| 9 | **Unrendered `{title}` / `{vendor_count}` placeholders** in the cookie banner, visible in page text | 12, 14, 24 |
+| 9 | ✅ ~~**Cookie-banner placeholders** on the three flagged pages~~ — verified absent on October 30; Osano is loaded | 12, 14, 24 |
 | 10 | **"Microsoft Gold Partner"** (retired tier) vs "Solution Partner" | 06, 20 |
 
 ## Recurring patterns
 
-- **Empty "Book a discovery session" CTAs.** The booking form doesn't render for AI on any page, and the sales block appears even on Careers, Support, Terms and Privacy.
-- **Unsourced superlatives:** "#1," "top 5% / ahead of 95% of MSPs," "industry-leading CSAT/NPS," "airtight," "the best."
+- **Script-dependent contact route.** Contact fields are absent from the initial HTML, but the HubSpot form rendered in a JavaScript-enabled browser with reCAPTCHA. Submission and agent compatibility were not tested. Sales CTAs remain in the initial HTML of Careers, Support, Terms and Privacy.
+- **Claims needing qualification:** the 95%/top-5% and CSAT/NPS statements lack supporting figures or methodology on the reviewed pages. The homepage does label its Clutch Leaders Matrix August 2026, so its ranking is not treated as wholly unsourced.
 - **Three names for CORE** (CORE Intelligent Managed Services / CORE Managed AI / CORE Managed Services) and **three for Managed Cloud**.
-- **Pre-CORE pages:** Advisory (Mar 2026), Highly Regulated (Mar 2026), Law Firms (Apr 2026), Manufacturers (Jun 2026) have no AI/CORE messaging, though AI is the homepage headline.
+- **CORE coverage varies:** Advisory already mentions deploying AI, and Law Firms links AI articles; both now have October 29 modification timestamps. Their main narratives still lack a dedicated CORE explanation. Highly Regulated Industries and Manufacturers also lack a clear CORE offer in their primary copy.
 - **Legacy TechMD contact details** on 7 locations and the Support page.
 - **Leftover UI text** ("Expand," "Bio*Expand*") and image file names used as alt text.
-- **Typos AI will notice** — rescan October 29, 3:04 pm ET: **3 open, 7 fixed**, and 6 more went away with the removed Community Banks and Credit Unions pages.
+- **Typos AI will notice** — rechecked October 30, 2026: **3 open, 7 previously fixed**, and 6 more went away with the removed Community Banks and Credit Unions pages.
     - **Still open** (each link opens the live page; in Chrome and Edge it scrolls to the typo and highlights it):
         - [“excelling Integris”](https://integrisit.com/about/leadership/#:~:text=excelling%20Integris){target="_blank" rel="noopener"} — unclear wording, probably “advancing Integris' future-ready service model” · *Leadership*
         - [“subprocessores”](https://integrisit.com/privacy-statement-us/#:~:text=subprocessores){target="_blank" rel="noopener"} — should be “subprocessors” · *Privacy Statement*

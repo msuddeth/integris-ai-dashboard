@@ -3,7 +3,9 @@
 **URL:** https://integrisit.com/about/
 **Captured:** October 29, 2026, through an AI web reader
 
-> Everything below is the AI's own reading of the page as served.
+**Last checked:** October 30, 2026 — targeted review of earlier flagged issues; original narrative retained except where explicitly refreshed.
+
+> Original reading: October 29, 2026. Flagged issues and metadata rechecked October 30, 2026 at 9:43 AM CDT. Earlier descriptive sections are retained unless corrected below. Initial HTML was read without JavaScript; browser-dependent results are identified explicitly.
 
 ## Metadata
 
@@ -13,8 +15,9 @@
 | og:title | About Our IT Solution Company \| Integris |
 | Meta description | Integris offers the best managed IT solutions provider to businesses across the country. Click to learn more about our organization. |
 | Canonical | https://integrisit.com/about/ |
-| Robots | index, follow |
-| Last modified | 2026-09-29 |
+| Robots | index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1 |
+| Last modified | 2026-09-29T12:38:26+00:00 |
+| Rechecked | October 30, 2026 at 9:43 AM CDT |
 
 ## Heading structure
 
@@ -51,3 +54,9 @@ A managed IT provider focused exclusively on SMBs, covering managed IT, cybersec
 - **Award names hidden in images:** most badges have empty alt text, so AI can't name them.
 - **Unsupported superlatives:** "the best managed IT solutions provider" (meta), "a national leader."
 - **Grammar:** meta description "offers the best … provider to businesses."
+
+## Rescan — October 30, 2026
+
+Previously open findings: **6**. Open after this rescan: **6**. Each top-level bullet counts once; grouped concerns are not split into extra issues. Verified resolutions and audit corrections are excluded. Remaining subjective recommendations are not independently proven defects.
+
+Source: [https://integrisit.com/about/](https://integrisit.com/about/). Fresh HTML returned HTTP 200; no forms were submitted.

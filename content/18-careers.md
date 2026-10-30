@@ -3,7 +3,9 @@
 **URL:** https://integrisit.com/about/careers/
 **Captured:** October 29, 2026, through an AI web reader
 
-> Everything below is the AI's own reading of the page as served.
+**Last checked:** October 30, 2026 — targeted review of earlier flagged issues; original narrative retained except where explicitly refreshed.
+
+> Original reading: October 29, 2026. Flagged issues and metadata rechecked October 30, 2026 at 9:43 AM CDT. Earlier descriptive sections are retained unless corrected below. Initial HTML was read without JavaScript; browser-dependent results are identified explicitly.
 
 ## Metadata
 
@@ -11,10 +13,11 @@
 |---|---|
 | Title tag | Careers \| Come Join Integris Today |
 | og:title | Careers \| Integris |
-| Meta description | Promotes competitive salaries, benefits and career growth at Integris, a national managed IT provider (paraphrased by the AI). |
+| Meta description | Competitive salaries, excellent benefits, great people – grow your career at Integris, a national managed IT service provider with a local feel. |
 | Canonical | https://integrisit.com/about/careers/ |
-| Robots | index, follow |
-| Last modified | 2026-09-29 |
+| Robots | index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1 |
+| Last modified | 2026-09-29T12:38:48+00:00 |
+| Rechecked | October 30, 2026 at 9:43 AM CDT |
 
 ## Heading structure
 
@@ -50,3 +53,9 @@ A people-first culture with growth, belonging and community involvement, and a c
 - **Sales CTA on a careers page** — mixed audience.
 - **Missing:** salary ranges (despite "competitive salaries" in meta), remote/hybrid policy, locations, application process, EEO statement.
 - **Unverified:** "the most client-focused, high-performing, future-ready MSP in the country."
+
+## Rescan — October 30, 2026
+
+Previously open findings: **4**. Open after this rescan: **4**. Each top-level bullet counts once; grouped concerns are not split into extra issues. Verified resolutions and audit corrections are excluded. Remaining subjective recommendations are not independently proven defects.
+
+Source: [https://integrisit.com/about/careers/](https://integrisit.com/about/careers/). Fresh HTML returned HTTP 200; no forms were submitted.

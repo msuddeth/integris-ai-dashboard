@@ -3,17 +3,21 @@
 **URL:** https://integrisit.com/services/managed-it/
 **Captured:** October 29, 2026, through an AI web reader
 
-> Everything below is the AI's own reading of the page as served.
+**Last checked:** October 30, 2026 — targeted review of earlier flagged issues; original narrative retained except where explicitly refreshed.
+
+> Original reading: October 29, 2026. Flagged issues and metadata rechecked October 30, 2026 at 9:43 AM CDT. Earlier descriptive sections are retained unless corrected below. Initial HTML was read without JavaScript; browser-dependent results are identified explicitly.
 
 ## Metadata
 
 | Field | Value |
 |---|---|
-| Title tag / og:title | Top-rated Managed IT Services for Your Business \| Integris |
-| Meta description | (paraphrased by the AI) Integris handles your managed IT so you can focus on growing your business. |
+| Title tag | Top-rated Managed IT Services for Your Business \| Integris |
+| og:title | Top-rated Managed IT Services for Your Business \| Integris |
+| Meta description | At Integris, we handle your managed IT services so you can focus on growing your business. Let’s find the right IT solution for your needs. |
 | Canonical | https://integrisit.com/services/managed-it/ |
-| Robots | index, follow |
-| Last modified | 2026-10-20 |
+| Robots | index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1 |
+| Last modified | 2026-10-20T15:27:01+00:00 |
+| Rechecked | October 30, 2026 at 9:43 AM CDT |
 
 ## Heading structure
 
@@ -59,7 +63,13 @@ A managed IT provider for SMBs with three models: fully managed IT (most popular
 - **Pricing section without prices;** the calculator doesn't appear in readable text.
 - **Video** appears only as a raw file URL with no description or transcript.
 - **Unsupported claims:** "Top-rated," "Zero-Downtime Focus," "Guaranteed outcomes via SLAs" (no SLA terms), "Most MSPs can't pass the audits," and the "average business" statistic (no sample or source). "Verified outcomes" sits over counts that aren't outcomes.
-- **Undated awards** (Inc. 500, MSP Select).
+- **Partly dated awards:** MSP Select is explicitly labeled 2025; the Inc. 500 claim still refers to multiple years without naming those years.
 - **Formatting artifacts:** repeated "Expand" labels in the FAQ.
 - **Link to a removed page (rescan October 29, 1:28 pm):** still links to `/industries/community-banks/`, which now forwards to Financial Institutions.
-- **"Brand New" Strategic IT tier** has no detailed description.
+- ~~"Brand New" Strategic IT tier has no detailed description.~~ ✅ **Audit correction** (October 30, 2026). Strategic IT has a readable description, six scope bullets and a Learn more link. The earlier no-description finding is not supported.
+
+## Rescan — October 30, 2026
+
+Previously open findings: **10**. Open after this rescan: **9**. Each top-level bullet counts once; grouped concerns are not split into extra issues. Verified resolutions and audit corrections are excluded. Remaining subjective recommendations are not independently proven defects.
+
+Source: [https://integrisit.com/services/managed-it/](https://integrisit.com/services/managed-it/). Fresh HTML returned HTTP 200; no forms were submitted.

@@ -3,7 +3,9 @@
 **URL:** https://integrisit.com/industries/manufacturing-it-services/
 **Captured:** October 29, 2026, through an AI web reader
 
-> Everything below is the AI's own reading of the page as served.
+**Last checked:** October 30, 2026 — targeted review of earlier flagged issues; original narrative retained except where explicitly refreshed.
+
+> Original reading: October 29, 2026. Flagged issues and metadata rechecked October 30, 2026 at 9:43 AM CDT. Earlier descriptive sections are retained unless corrected below. Initial HTML was read without JavaScript; browser-dependent results are identified explicitly.
 
 ## Metadata
 
@@ -13,8 +15,9 @@
 | og:title | Manufacturing IT Services \| Integris |
 | Meta description | Insightful and reliable Manufacturing IT services for productive and effective business. Click to learn more and set up a free consultation. |
 | Canonical | https://integrisit.com/industries/manufacturing-it-services/ |
-| Robots | index, follow |
-| Last modified | 2026-06-24 |
+| Robots | index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1 |
+| Last modified | 2026-06-24T15:11:34+00:00 |
+| Rechecked | October 30, 2026 at 9:43 AM CDT |
 
 ## Heading structure
 
@@ -53,8 +56,14 @@ Managed IT for small and midsize manufacturers: fully managed and co-managed IT,
 - **Dated report:** promotes the **2025** report in late 2026 (Press page shows a June 2026 manufacturing report exists).
 - **Possibly stale CMMC article** (rules from October 2024).
 - **"Free consultation"** in meta vs "discovery session" in body.
-- **Rendering artifacts:** raw meta tag lines in body text; alt text as filenames ("bell-concierge-solid," "manufacturingmockup").
+- **Alt text artifacts remain:** examples include bell-concierge-solid and manufacturingmockup. Raw meta-tag text was not reproduced in the primary content on this rescan.
 - **Unsupported superlatives:** "#1," "leading," "best-trained experts," "state-of-the-art."
-- **"Level 2 certified provider"** wording should be checked against how CMMC certification applies to an MSP.
-- **Empty heading:** "Service that drives digital maturity…" has no body.
+- **Certification scope needs a source:** the page calls Integris a Level 2 certified provider but does not identify the assessment scope or a verification source here. This is a documentation question, not a finding that certification is invalid.
+- ~~Empty heading: "Service that drives digital maturity…" has no body.~~ ✅ **Audit correction** (October 30, 2026). Readable managed-service, assessment and flexible-service descriptions follow the heading.
 - **No AI/CORE messaging.**
+
+## Rescan — October 30, 2026
+
+Previously open findings: **8**. Open after this rescan: **7**. Each top-level bullet counts once; grouped concerns are not split into extra issues. Verified resolutions and audit corrections are excluded. Remaining subjective recommendations are not independently proven defects.
+
+Source: [https://integrisit.com/industries/manufacturing-it-services/](https://integrisit.com/industries/manufacturing-it-services/). Fresh HTML returned HTTP 200; no forms were submitted.

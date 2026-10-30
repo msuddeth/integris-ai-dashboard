@@ -1,6 +1,18 @@
 # Change log
 
-Every rescan of integrisit.com and every update to this report, newest first. All times are October 29, 2026, Eastern Time.
+Every rescan and report update, newest first. Entries state their date and timezone; historical October 29 entries use Eastern Time.
+
+## October 30, 2026 at 9:43 AM CDT — Flagged-issue rescan
+
+- Rechecked all 24 previously reviewed Integris pages against fresh HTML. Contact and Privacy also checked in a JavaScript-enabled browser. No form was submitted.
+- Open findings: **149 → 137**. Removed **7 verified resolutions** and **6 audit corrections**; restored one previously uncounted mixed Leadership typo finding; preserved strike-through history and regenerated every page badge and overview total.
+- Cookie placeholders disappeared on Law Firms, Highly Regulated Industries and Client Support. Resources now lists Rensa Filtration alongside Shamrock, no longer states the 80% figure, and has an October 30 modified timestamp. The old press-kit fact-sheet link is absent.
+- Corrected earlier unsupported findings about empty sections, RITA text, tracking markup, and counting a positive lineage observation as an issue. Advisory AI copy and current modification dates are reflected accurately.
+- Still open: Managed IT placeholder text and endpoint discrepancy; Cybersecurity FAQ #19; Microsoft Gold Partner wording; privacy content and archived Contact privacy link; three flagged copy errors.
+- Contact form fields rendered in a browser; revised universal AI-agent-failure claims to describe the non-JavaScript limitation. Submission and agent compatibility remain untested.
+- Financial Institutions canonical and index/follow fixes remain confirmed. Old banking URLs still redirect there. CORE and Cloud canonicals omit a trailing slash and resolve through redirects; recorded for technical review, not added to the page-finding totals during this targeted rescan.
+- Kept the design and compiled CSS. Restored build/bundle scripts and repaired packaging so future ZIP downloads include them. Comparison scores remain dated October 29; First Focus was not rescanned. Its links point to the original external report.
+- A search-reader Privacy snapshot differed from the fresh HTML and browser view; no privacy fix was inferred from it.
 
 ## 3:04 pm — General rescan
 

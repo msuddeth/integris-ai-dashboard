@@ -3,7 +3,9 @@
 **URL:** https://integrisit.com/services/advisory/
 **Captured:** October 29, 2026, through an AI web reader
 
-> Everything below is the AI's own reading of the page as served.
+**Last checked:** October 30, 2026 — targeted review of earlier flagged issues; original narrative retained except where explicitly refreshed.
+
+> Original reading: October 29, 2026. Flagged issues and metadata rechecked October 30, 2026 at 9:43 AM CDT. Earlier descriptive sections are retained unless corrected below. Initial HTML was read without JavaScript; browser-dependent results are identified explicitly.
 
 ## Metadata
 
@@ -13,8 +15,9 @@
 | og:title | Advisory Services \| Integris |
 | Meta description | Explore how it consulting can transform your business with expert insights, technology roadmaps, and strategic growth solutions. |
 | Canonical | https://integrisit.com/services/advisory/ |
-| Robots | index, follow |
-| Last modified | 2026-03-06 |
+| Robots | index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1 |
+| Last modified | 2026-10-29T17:11:40+00:00 |
+| Rechecked | October 30, 2026 at 9:43 AM CDT |
 
 ## Heading structure
 
@@ -51,5 +54,11 @@ Strategic IT consulting for SMBs:
 - **Leftover UI and empty list items** ("Expand," "Read more," stray "-" bullets).
 - ~~Typo:~~ ~~"work-from-anywhere-on any-device."~~ ✅ **Fixed** (rescan October 29, 1:13 pm).
 - **RITA is vague** — the "integrated suite" isn't named or described.
-- **Oldest service page:** last modified March 2026, before the CORE launch; doesn't mention CORE or AI advisory.
+- **CORE advisory connection remains unclear:** the page does mention deploying AI and now has an October 29 modified timestamp. It still does not explain a dedicated CORE advisory offer. The former March-date/no-AI assertion is corrected.
 - **No proof:** no case studies, certifications or assessment deliverable samples.
+
+## Rescan — October 30, 2026
+
+Previously open findings: **5**. Open after this rescan: **5**. Each top-level bullet counts once; grouped concerns are not split into extra issues. Verified resolutions and audit corrections are excluded. Remaining subjective recommendations are not independently proven defects.
+
+Source: [https://integrisit.com/services/advisory/](https://integrisit.com/services/advisory/). Fresh HTML returned HTTP 200; no forms were submitted.

@@ -3,17 +3,21 @@
 **URL:** https://integrisit.com/our-locations/
 **Captured:** October 29, 2026, through an AI web reader
 
-> Everything below is the AI's own reading of the page as served.
+**Last checked:** October 30, 2026 — targeted review of earlier flagged issues; original narrative retained except where explicitly refreshed.
+
+> Original reading: October 29, 2026. Flagged issues and metadata rechecked October 30, 2026 at 9:43 AM CDT. Earlier descriptive sections are retained unless corrected below. Initial HTML was read without JavaScript; browser-dependent results are identified explicitly.
 
 ## Metadata
 
 | Field | Value |
 |---|---|
-| Title tag / og:title | Our Locations \| Integris |
-| Meta description | Integris offices across the U.S. offering managed IT, cybersecurity, and 24/7/365 service close to home (paraphrased by the AI). |
+| Title tag | Our Locations \| Integris |
+| og:title | Our Locations \| Integris |
+| Meta description | Need local IT support you can count on? Integris has offices across the U.S. offering managed IT, cybersecurity, and 24/7/365 service close to home. |
 | Canonical | https://integrisit.com/our-locations/ |
-| Robots | index, follow |
-| Last modified | 2026-09-28 |
+| Robots | index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1 |
+| Last modified | 2026-09-28T15:56:39+00:00 |
+| Rechecked | October 30, 2026 at 9:43 AM CDT |
 
 ## Heading structure
 
@@ -53,8 +57,14 @@
 
 - **Seven offices use a TechMD email** (help@techmd.com) — an AI giving support instructions may route people to a legacy brand.
 - **Five different support numbers** with no explanation of which clients use which.
-- **City headings vs addresses:** Dallas → Bedford; Houston → Spring; Ocean City → Ocean Pines; Costa Mesa slug is "orange-county-ca."
+- **Metro labels need context:** Dallas uses a Bedford address, Houston a Spring address, Ocean City an Ocean Pines address, and Costa Mesa an Orange County slug. These may be intentional metro labels; explain them rather than treating them as wrong addresses.
 - **Only U.S. offices** — the First Focus acquisition (Australia, NZ, Philippines) isn't reflected.
 - **Syracuse and Wichita** have no location page links unlike the others.
 - **"24/7/365"** appears only in the meta description; no hours anywhere.
 - **Office count (18) isn't stated on the homepage or About page,** where "offices across the US" is all AI gets.
+
+## Rescan — October 30, 2026
+
+Previously open findings: **7**. Open after this rescan: **7**. Each top-level bullet counts once; grouped concerns are not split into extra issues. Verified resolutions and audit corrections are excluded. Remaining subjective recommendations are not independently proven defects.
+
+Source: [https://integrisit.com/our-locations/](https://integrisit.com/our-locations/). Fresh HTML returned HTTP 200; no forms were submitted.

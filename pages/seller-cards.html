@@ -42,7 +42,7 @@
   <div class="space-y-3 border-t border-gray-200 p-6">
     <a href="../pages/ai-page-example.html" class="drawer-link btn-secondary w-full justify-center">Integris AI Page example</a>
     <!--DL--><a href="../downloads/integris-ai-view.html" download class="drawer-link btn-primary w-full justify-center">&darr; Download as HTML</a><a href="../downloads/integris-ai-view-site.zip" download class="drawer-link block text-center text-sm font-medium text-brand-gray hover:text-brand-accent">Download full site (.zip)</a><!--/DL-->
-    <a href="../firstfocus/index.html" class="drawer-link block rounded-btn border border-brand-plum/30 px-4 py-3 text-center text-sm font-semibold hover:border-brand-accent hover:text-brand-accent">See how First Focus compares &rarr;</a>
+    <a href="https://crlkysr.github.io/integris_AI_recommendations/firstfocus/" class="drawer-link block rounded-btn border border-brand-plum/30 px-4 py-3 text-center text-sm font-semibold hover:border-brand-accent hover:text-brand-accent">See how First Focus compares &rarr;</a>
   </div>
 </aside>
 <script>
@@ -64,12 +64,15 @@
   d.querySelectorAll('.drawer-link').forEach(function (a) { a.addEventListener('click', function () { set(false); }); });
 })();
 </script>
-<!--BUNDLE-START--><section class="hero-bg text-white">
+<!--BUNDLE-START--><div class="mx-auto max-w-7xl px-4 py-4 sm:px-6 text-sm bg-brand-mist"><strong>Rescan October 30, 2026:</strong> page findings and counts were refreshed. The comparison scores remain the October 29 baseline; First Focus was not rescanned. Draft claims below need review before use on the company website.</div>
+<!-- Body of the "Seller cards for agentic search" page. build.py wraps it with the site header/footer.
+     Facts come only from public integrisit.com pages, its /llms.txt and its structured data, read October 29, 2026. -->
+<section class="hero-bg text-white">
   <div class="mx-auto max-w-7xl px-4 py-14 sm:px-6 sm:py-20">
     <a href="../index.html" class="text-sm text-white/70 hover:text-white">&larr; All pages</a>
     <p class="mt-6 text-sm font-semibold uppercase tracking-widest text-brand-orange">Agentic search &middot; Draft for review</p>
     <h1 class="mt-3 max-w-4xl text-4xl font-extrabold leading-[1.05] sm:text-6xl">Seller cards for AI buying agents</h1>
-    <p class="mt-5 max-w-3xl text-lg text-white/85">AI agents now research and shortlist vendors before a human ever visits the site. A seller card is the structured fact sheet they read to decide whether Integris makes the list. Below: examples to model on, Integris's cards filled with what's already public, where the cards should live, and the form problem that stops agents at the finish line.</p>
+    <p class="mt-5 max-w-3xl text-lg text-white/85">Some AI agents can research and shortlist vendors before a human visits the site. A seller card is the structured fact sheet they read to decide whether Integris makes the list. Below: examples to model on, Integris's cards filled with what's already public, where the cards should live, and the script-dependent form route that needs compatibility testing.</p>
     <div class="mt-8 flex flex-wrap gap-3">
       <a href="#form" class="btn-primary">The discovery form problem</a>
       <a href="#cards" class="btn-secondary">Integris seller cards</a>
@@ -86,11 +89,11 @@
     <svg class="mt-1 shrink-0" width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M10.3 3.9 1.8 18a2 2 0 0 0 1.7 3h17a2 2 0 0 0 1.7-3L13.7 3.9a2 2 0 0 0-3.4 0z"/><path d="M12 9v4M12 17h.01"/></svg>
     <div>
       <p class="text-sm font-semibold uppercase tracking-widest opacity-80">Critical</p>
-      <h2 class="mt-1 text-2xl font-bold sm:text-3xl">Today, no AI buying agent can use the discovery form</h2>
+      <h2 class="mt-1 text-2xl font-bold sm:text-3xl">The discovery form requires JavaScript; agent compatibility is untested</h2>
     </div>
   </div>
   <div class="px-6 py-6 sm:px-8">
-    <p class="text-lg">Every page ends with "Book a discovery session." When a buyer's agent gets to that step, there is nothing it can read, fill in or hand back to the buyer. It drops Integris and moves to a vendor it can act on. <a href="#form" class="font-semibold text-brand-accent hover:underline">See why and how to fix it with HubSpot &rarr;</a></p>
+    <p class="text-lg">The initial Contact HTML contains no enquiry fields. On this rescan, a JavaScript-enabled browser did render the HubSpot form, including reCAPTCHA. A non-JavaScript reader cannot use those fields, but this does not prove that every browser-based agent fails. No submission was attempted. <a href="#form" class="font-semibold text-brand-accent hover:underline">See why and how to fix it with HubSpot &rarr;</a></p>
   </div>
 </section>
 
@@ -151,7 +154,7 @@
 <p class="text-sm text-brand-gray">The two research pieces come from vendors that sell AI-search services, so read their recommendations with that in mind.</p>
 
 <h2 id="cards">Integris seller cards</h2>
-<p>Each card uses the fields agents shortlist on. Values come only from what Integris publishes today. <span class="gap-badge">Gap</span> marks a field an agent would need that Integris doesn't publish; <span class="conflict-badge">Conflict</span> marks a field where Integris publishes contradictory answers. Either one is enough for an agent to drop the vendor.</p>
+<p>Each card uses the fields agents shortlist on. Values come only from what Integris publishes today. <span class="gap-badge">Gap</span> marks a field an agent would need that Integris doesn't publish; <span class="conflict-badge">Conflict</span> marks a field where Integris publishes contradictory answers. Either may make comparison harder; vendor exclusion was not measured in this review.</p>
 
 </article>
 
@@ -173,7 +176,7 @@
       <div><dt>Support hours</dt><dd>24/7/365 U.S.-based help desk and SOC <span class="conflict-badge">Conflict</span><span class="why">Structured data says open 9:00–5:00 daily.</span></dd></div>
       <div><dt>Response-time SLA</dt><dd><span class="gap-badge">Gap</span><span class="why">No response or resolution times published anywhere.</span></dd></div>
       <div><dt>Not a fit for</dt><dd><span class="gap-badge">Gap</span><span class="why">Nothing published.</span></dd></div>
-      <div><dt>How to engage</dt><dd>Sales (888) 330-8808 &middot; sales@integrisit.com <span class="gap-badge">Agent-blocked</span><span class="why">The discovery form can't be used by agents, and there's no scheduling link. <a class="underline" href="#form">Details</a></span></dd></div>
+      <div><dt>How to engage</dt><dd>Sales (888) 330-8808 &middot; sales@integrisit.com <span class="gap-badge">Agent-blocked</span><span class="why">The fields require JavaScript and an iframe; the form rendered in a browser. No standalone scheduling link was found on Contact. Submission and agent compatibility were not tested. <a class="underline" href="#form">Details</a></span></dd></div>
     </dl>
   </section>
 
@@ -203,7 +206,7 @@
       <div><dt>Governance</dt><dd>AI governance informed by ISO/IEC 42001; security aligned to CIS Controls</dd></div>
       <div><dt>Not included</dt><dd>Larger SharePoint cleanup or remediation is scoped separately</dd></div>
       <div><dt>Pricing &amp; onboarding</dt><dd><span class="gap-badge">Gap</span><span class="why">No pricing model, figures or onboarding timeline.</span></dd></div>
-      <div><dt>Proof</dt><dd>Shamrock: four days to four hours, 2.8x ROI <span class="conflict-badge">Conflict</span><span class="why">The Resources page describes the same case study as an 80% productivity boost.</span></dd></div>
+      <div><dt>Proof</dt><dd>Shamrock: four days to four hours, 2.8x ROI <span class="conflict-badge">Conflict</span><span class="why">The current Resources listing no longer gives an 80% figure. The CORE ROI claim still needs methodology; this is an evidence gap rather than the earlier Resources contradiction.</span></dd></div>
       <div><dt>Name</dt><dd><span class="conflict-badge">Conflict</span><span class="why">Also called "CORE Managed AI" and "CORE Managed Services."</span></dd></div>
     </dl>
   </section>
@@ -305,7 +308,7 @@
 </ul>
 
 <h3 id="llms">Integris's /llms.txt today</h3>
-<p>Integris already has an <a href="https://integrisit.com/llms.txt" target="_blank" rel="noopener">/llms.txt</a>, generated by Yoast SEO. It's the first file many AI systems read, and it currently sends them to the wrong places:</p>
+<p>Integris already has an <a href="https://integrisit.com/llms.txt" target="_blank" rel="noopener">/llms.txt</a>, generated by Yoast SEO. It offers a navigation aid for systems that choose to read it, but still contains these issues:</p>
 <ul>
   <li>The <strong>Contact</strong> entry is described as calling "Domain Computer Services," a legacy brand.</li>
   <li><strong>CORE, Cybersecurity and Managed Cloud</strong> all reuse the Managed IT description word for word.</li>
@@ -326,7 +329,7 @@
   <li>There is no <strong>Service</strong>, <strong>Offer</strong> or <strong>ContactPoint</strong> markup, so agents can't read individual services as structured data.</li>
 </ul>
 
-<h2 id="form">The discovery form: why agents can't use it</h2>
+<h2 id="form">The discovery form: observed access limits</h2>
 </article>
 
 <section class="not-prose mt-6 grid gap-4 md:grid-cols-2">
@@ -335,16 +338,16 @@
     <p class="mt-2 text-sm">The Contact page's HTML has no form, no fields and no submit address. HubSpot draws the form afterward with JavaScript, inside an iframe from <code class="text-brand-purple">js.hsforms.net</code>. Agents that read pages without running scripts see nothing; agents that do run scripts see a third-party frame.</p>
   </div>
   <div class="rounded-xl border-l-8 border-brand-red bg-brand-red/5 p-5">
-    <p class="font-semibold text-brand-accent">2. reCAPTCHA blocks automated submission</p>
-    <p class="mt-2 text-sm">The form loads Google reCAPTCHA Enterprise, which exists to stop non-humans. HubSpot's form submission API also lists an error for forms with reCAPTCHA enabled, so the same form can't simply be submitted from code.</p>
+    <p class="font-semibold text-brand-accent">2. reCAPTCHA requires compatibility testing</p>
+    <p class="mt-2 text-sm">The rendered form displays reCAPTCHA. Automated submission was not attempted, and this rescan does not establish which agents can complete the flow. Any proposed intake API must be validated against current HubSpot documentation before implementation.</p>
   </div>
   <div class="rounded-xl border-l-8 border-brand-red bg-brand-red/5 p-5">
-    <p class="font-semibold text-brand-accent">3. No other route to book</p>
-    <p class="mt-2 text-sm">There's no scheduling link on any page checked, and "Book a discovery session" buttons have no destination an AI can read. The only fallbacks are a phone number and sales@integrisit.com, neither described as a way to book.</p>
+    <p class="font-semibold text-brand-accent">3. No direct scheduler found on Contact</p>
+    <p class="mt-2 text-sm">The Contact page exposes phone and email alternatives, but no standalone scheduling URL was found there. Publishing a clear booking link and expected response time would help buyers and non-JavaScript readers.</p>
   </div>
   <div class="rounded-xl border-l-8 border-brand-red bg-brand-red/5 p-5">
     <p class="font-semibold text-brand-accent">4. Nothing says what happens next</p>
-    <p class="mt-2 text-sm">The fields (name, business email, company, optional phone, "How did you hear about us?" and more) aren't described anywhere an agent can read, and there's no stated response time. An agent can't tell its buyer what to expect.</p>
+    <p class="mt-2 text-sm">Those fields were readable in the JavaScript-enabled browser, but absent from the initial HTML. A plain-text description of the fields, expected response time and a direct scheduling link would help non-JavaScript readers.</p>
   </div>
 </section>
 
@@ -363,7 +366,7 @@
       <li>Document the endpoint's fields in plain text on <code>/ai-info/</code> and in <code>/llms.txt</code>, and add it as the <code>potentialAction</code> target in the structured data.</li>
     </ul>
   </li>
-  <li><strong>Confirm before sales follows up.</strong> Tag agent submissions in HubSpot (a hidden "source = AI agent" field) and route them to a workflow that emails the named buyer a confirmation link. Sales engages once the buyer confirms, so no lead is ever created without the buyer's consent.</li>
+  <li><strong>Confirm before sales follows up.</strong> Tag agent submissions in HubSpot (a hidden "source = AI agent" field) and route them to a workflow that emails the named buyer a confirmation link. Sales engages once the buyer confirms, before allowing sales follow-up; the form submission may already create or update a CRM contact.</li>
   <li><strong>Test with real agents.</strong> Ask ChatGPT's agent mode, Perplexity Comet and Gemini in Chrome to "book a discovery session with Integris." Check that they find the route, and that submissions land in HubSpot with the right source.</li>
 </ol>
 <blockquote><p><strong>Before building step 4:</strong> HubSpot labels the v3 form submission API "legacy" in its developer docs. Check the current submission endpoint and its rate limits with HubSpot first, and have marketing and legal sign off the consent wording.</p></blockquote>
@@ -375,7 +378,7 @@
     <tr><td>1</td><td>Publish a HubSpot Meetings link and describe the discovery route in plain text</td><td>Marketing ops</td><td>1 day</td></tr>
     <tr><td>2</td><td>Fix <code>/llms.txt</code>: descriptions, wrong links, missing pages</td><td>Web / SEO</td><td>1 day</td></tr>
     <tr><td>3</td><td>Fix structured data: hours, areaServed, "New Jersery," add ContactPoint</td><td>Web / SEO</td><td>1 day</td></tr>
-    <tr><td>4</td><td>Resolve the conflicts on the cards (company age, size range, scale, Shamrock, service names, Microsoft tier)</td><td>Marketing</td><td>1 week</td></tr>
+    <tr><td>4</td><td>Resolve the conflicts on the cards (company age, size range, scale, service names, Microsoft tier; document the Shamrock methodology)</td><td>Marketing</td><td>1 week</td></tr>
     <tr><td>5</td><td>Decide on publishing the gaps (pricing model and starting price, SLAs, not-a-fit, employees, HQ)</td><td>Leadership</td><td>Decision</td></tr>
     <tr><td>6</td><td>Publish <code>/ai-info/</code> and the five service cards with matching JSON-LD</td><td>Web / marketing</td><td>2 weeks</td></tr>
     <tr><td>7</td><td>Build the agent intake endpoint and HubSpot confirmation workflow</td><td>Web dev / marketing ops</td><td>1 sprint</td></tr>
@@ -387,7 +390,7 @@
 <!--BUNDLE-END--><footer class="mt-24 bg-brand-plum-deep text-white/80">
   <div class="mx-auto max-w-7xl px-4 py-10 text-sm sm:px-6 sm:flex sm:justify-between sm:gap-8">
     <p><span class="font-display text-lg font-bold tracking-tight">Integris<span class="text-brand-red">.</span></span> AI View &middot; Internal review of integrisit.com</p>
-    <p class="mt-3 sm:mt-0">Pages read by an AI web reader on October 29, 2026. Blog and subdomains excluded. <a class="font-semibold text-white hover:underline" href="../pages/changelog.html">Change log</a> &middot; <a class="font-semibold text-white hover:underline" href="../firstfocus/index.html">See how First Focus compares</a></p>
+    <p class="mt-3 sm:mt-0">Original review October 29, 2026. Flagged issues rechecked October 30, 2026 at 9:43 AM CDT. Blog and subdomains excluded. <a class="font-semibold text-white hover:underline" href="../pages/changelog.html">Change log</a> &middot; <a class="font-semibold text-white hover:underline" href="https://crlkysr.github.io/integris_AI_recommendations/firstfocus/">See how First Focus compares</a></p>
     <!--DL--><p class="mt-3 flex flex-wrap gap-4 sm:mt-0"><a class="font-semibold text-white hover:underline" href="../downloads/integris-ai-view.html" download>Download as HTML</a><a class="font-semibold text-white hover:underline" href="../downloads/integris-ai-view-site.zip" download>Download full site (.zip)</a></p><!--/DL-->
   </div>
 </footer>

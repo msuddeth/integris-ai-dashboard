@@ -3,7 +3,9 @@
 **URL:** https://integrisit.com/industries/financial-services/
 **Captured:** October 29, 2026, through an AI web reader
 
-> Everything below is the AI's own reading of the page as served.
+**Last checked:** October 30, 2026 — targeted review of earlier flagged issues; original narrative retained except where explicitly refreshed.
+
+> Original reading: October 29, 2026. Flagged issues and metadata rechecked October 30, 2026 at 9:43 AM CDT. Earlier descriptive sections are retained unless corrected below. Initial HTML was read without JavaScript; browser-dependent results are identified explicitly.
 
 ## Metadata
 
@@ -12,9 +14,10 @@
 | Title tag | IT Solutions Built for Financial Institutions \| Integris |
 | og:title | Managed IT Services for Banks, Credit Unions & Wealth Management \| Integris \| Integris |
 | Meta description | Explore managed IT for financial institutions with 30 years of expertise in security and compliance tailored for banks and credit unions. |
-| Canonical | https://integrisit.com/industries/financial-services/ ✅ fixed at 1:38 pm (was the Credit Unions URL) |
-| Robots | index, follow ✅ fixed at 3:00 pm (was index, nofollow) |
-| Last modified | 2026-10-29 |
+| Canonical | https://integrisit.com/industries/financial-services/ |
+| Robots | index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1 |
+| Last modified | 2026-10-29T19:00:47+00:00 |
+| Rechecked | October 30, 2026 at 9:43 AM CDT |
 
 ## Heading structure
 
@@ -54,10 +57,16 @@ Managed IT, cybersecurity, compliance and advisory for banks, credit unions, wea
 ## Issues the AI flagged
 
 - ~~Circular canonical: the canonical pointed to the removed Credit Unions URL, which forwards back to this page.~~ ✅ **Fixed** (rescan October 29, 1:38 pm). The canonical now points to this page.
-- **Now the only banking page:** the Community Banks and Credit Unions pages forward here, but their named bank testimonials, client logos and banking-association partnerships weren't moved over.
+- **Banking proof is thin on this page:** no named bank/credit-union testimonial appears in the primary service copy. Bank-related articles and an Oakwood Bank story are linked in Resources; those links do not establish that historical testimonials were migrated.
 - ~~"nofollow" robots tag on a page meant to rank.~~ ✅ **Fixed** (rescan October 29, 3:04 pm). The page is now "index, follow."
 - **Duplicated brand in og:title** ("| Integris | Integris").
 - **30 years vs 20+ years** on the same page.
 - **"Compare our services"** anchor has no comparison table; testimonials are embedded video with no names or transcripts, so AI sees none.
 - **Formatting:** "Expand" under every FAQ; an empty Resources list item; item 02 body text formatted as a heading; one section written in first person as IT staff.
 - **Mismatched alt text** (e.g., an FFIEC image labeled "True,And,False,Symbols…"); Victoria Flynn headshot has none.
+
+## Rescan — October 30, 2026
+
+Previously open findings: **6**. Open after this rescan: **6**. Each top-level bullet counts once; grouped concerns are not split into extra issues. Verified resolutions and audit corrections are excluded. Remaining subjective recommendations are not independently proven defects.
+
+Source: [https://integrisit.com/industries/financial-services/](https://integrisit.com/industries/financial-services/). Fresh HTML returned HTTP 200; no forms were submitted.

@@ -3,18 +3,21 @@
 **URL:** https://integrisit.com/industries/legal/
 **Captured:** October 29, 2026, through an AI web reader
 
-> Everything below is the AI's own reading of the page as served.
+**Last checked:** October 30, 2026 — targeted review of earlier flagged issues; original narrative retained except where explicitly refreshed.
+
+> Original reading: October 29, 2026. Flagged issues and metadata rechecked October 30, 2026 at 9:43 AM CDT. Earlier descriptive sections are retained unless corrected below. Initial HTML was read without JavaScript; browser-dependent results are identified explicitly.
 
 ## Metadata
 
 | Field | Value |
 |---|---|
 | Title tag | Reliable Managed IT Support for Law Firms and Legal Practices \| Integris |
-| og:title | Reliable Managed IT Support for Law Firms and Legal Practices |
-| Meta description | Managed IT support for law firms covering security, compliance, and reliable infrastructure (paraphrased by the AI). |
+| og:title | Reliable Managed IT Support for Law Firms and Legal Practices \| Integris |
+| Meta description | Integris delivers managed IT support to law firms, ensuring security, compliance, and reliable technology infrastructure for your legal practice. |
 | Canonical | https://integrisit.com/industries/legal/ |
-| Robots | index, follow |
-| Last modified | 2026-04-22 |
+| Robots | index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1 |
+| Last modified | 2026-10-29T17:12:53+00:00 |
+| Rechecked | October 30, 2026 at 9:43 AM CDT |
 
 ## Heading structure
 
@@ -48,11 +51,17 @@ Managed IT for law firms: fully managed services with strategy and planning, co-
 
 ## Issues the AI flagged
 
-- **Unrendered placeholders in the cookie banner:** `{title}` and `{vendor_count}` — visible to AI in the page text.
-- **Stray Google Tag Manager URL** at the top of the content.
+- ~~Unrendered placeholders in the cookie banner: `{title}` and `{vendor_count}` — visible to AI in the page text.~~ ✅ **Verified resolved** (October 30, 2026). Neither cookie placeholder is present in the fresh HTML; the page loads Osano instead.
+- ~~Stray Google Tag Manager URL at the top of the content.~~ ✅ **Audit correction** (October 30, 2026). The GTM URL belongs to a noscript tracking iframe, not stray editorial content.
 - ~~Name mismatch:~~ ~~testimonial says "Briana Suchof," firm is "Ross & Suchoff."~~ ✅ **Fixed** (rescan October 29, 1:13 pm).
 - **Wrong alt text:** CBA logo alt text is "Print."
-- **Empty heading:** "All the solutions and consulting you need" has no body text.
-- **RITA diagram** explained only in alt text.
-- **Unsupported:** CSAT/NPS without numbers; survey of 1,000 unexplained; "24/7 support" without detail.
-- **Lacks AI/CORE messaging** — last updated April 2026, before the CORE launch.
+- ~~Empty heading: "All the solutions and consulting you need" has no body text.~~ ✅ **Audit correction** (October 30, 2026). The section is followed by readable descriptions of fully managed services, assessments and flexible services.
+- ~~RITA diagram explained only in alt text.~~ ✅ **Audit correction** (October 30, 2026). The RITA section includes a readable explanation of assessment, security controls and centralized monitoring.
+- **Proof needs qualification:** CSAT/NPS claims lack figures on the page; the 1,000-person survey is mentioned in an article teaser without methodology here. Support terms are not detailed.
+- **No dedicated CORE service explanation:** legal AI is mentioned in linked resource teasers. The main service narrative does not describe CORE. The modified timestamp is October 29, not April.
+
+## Rescan — October 30, 2026
+
+Previously open findings: **7**. Open after this rescan: **3**. Each top-level bullet counts once; grouped concerns are not split into extra issues. Verified resolutions and audit corrections are excluded. Remaining subjective recommendations are not independently proven defects.
+
+Source: [https://integrisit.com/industries/legal/](https://integrisit.com/industries/legal/). Fresh HTML returned HTTP 200; no forms were submitted.

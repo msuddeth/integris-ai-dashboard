@@ -3,7 +3,9 @@
 **URL:** https://integrisit.com/industries/
 **Captured:** October 29, 2026, through an AI web reader
 
-> Everything below is the AI's own reading of the page as served.
+**Last checked:** October 30, 2026 — targeted review of earlier flagged issues; original narrative retained except where explicitly refreshed.
+
+> Original reading: October 29, 2026. Flagged issues and metadata rechecked October 30, 2026 at 9:43 AM CDT. Earlier descriptive sections are retained unless corrected below. Initial HTML was read without JavaScript; browser-dependent results are identified explicitly.
 
 ## Metadata
 
@@ -13,8 +15,9 @@
 | og:title | Industry Expertise \| Integris |
 | Meta description | We have the experience and expertise in your industry to offer you smart, custom solutions. Explore legal, healthcare, financial, and more. |
 | Canonical | https://integrisit.com/industries/ |
-| Robots | index, follow |
-| Last modified | 2026-06-18 |
+| Robots | index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1 |
+| Last modified | 2026-06-18T19:22:23+00:00 |
+| Rechecked | October 30, 2026 at 9:43 AM CDT |
 
 ## Heading structure
 
@@ -43,8 +46,14 @@ An IT provider for SMBs in regulated sectors, with pages for community banks, cr
 ## Issues the AI flagged
 
 - **Links to removed pages (rescan October 29, 1:28 pm):** the "Community banks" and "Community credit unions" blurbs link to `/industries/financial/` and `/industries/community-credit-unions/`. Both forward to Financial Institutions, but the page still presents them as separate industries. Merge them into one Financial Institutions entry linking to `/industries/financial-services/`.
-- **Meta promises healthcare** — there's no healthcare section.
+- **Healthcare coverage is limited:** healthcare is named in the Highly Regulated Industries blurb, but there is no dedicated healthcare entry. This is a coverage recommendation, not a missing word.
 - **Thin content:** one or two sentences per industry, no proof.
 - **Unsupported superlatives:** "highest level of service in the industry," "best possible IT strategies."
 - **Pronoun slip** in the credit union blurb ("Integris provides…" → "They…").
 - **Heading hierarchy** skips from H2 to H4; dated (2018) social share image.
+
+## Rescan — October 30, 2026
+
+Previously open findings: **6**. Open after this rescan: **6**. Each top-level bullet counts once; grouped concerns are not split into extra issues. Verified resolutions and audit corrections are excluded. Remaining subjective recommendations are not independently proven defects.
+
+Source: [https://integrisit.com/industries/](https://integrisit.com/industries/). Fresh HTML returned HTTP 200; no forms were submitted.

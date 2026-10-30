@@ -3,7 +3,9 @@
 **URL:** https://integrisit.com/contact/
 **Captured:** October 29, 2026, through an AI web reader
 
-> Everything below is the AI's own reading of the page as served.
+**Last checked:** October 30, 2026 — targeted review of earlier flagged issues; original narrative retained except where explicitly refreshed.
+
+> Original reading: October 29, 2026. Flagged issues and metadata rechecked October 30, 2026 at 9:43 AM CDT. Earlier descriptive sections are retained unless corrected below. Initial HTML was read without JavaScript; browser-dependent results are identified explicitly.
 
 ## Metadata
 
@@ -13,8 +15,9 @@
 | og:title | Contact Us \| Integris |
 | Meta description | Contact us to learn about our technology solutions, including IT support and more. Click to get in touch with IT experts at Integris today. |
 | Canonical | https://integrisit.com/contact/ |
-| Robots | index, follow |
-| Last modified | 2026-06-04 |
+| Robots | index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1 |
+| Last modified | 2026-06-04T13:02:11+00:00 |
+| Rechecked | October 30, 2026 at 9:43 AM CDT |
 
 ## Heading structure
 
@@ -36,7 +39,13 @@ A nationwide network of teams; sales contacts; existing clients directed to supp
 
 ## Issues the AI flagged
 
-- **The form is invisible to AI.** No form fields appear in the page text; the booking section likely relies on an embedded widget. Text refers to submitting a phone number and SMS opt-in, but no field is visible.
+- **Contact fields are absent from the initial HTML:** in a JavaScript-enabled browser the HubSpot iframe rendered name, email, company and enquiry fields, optional phone, and reCAPTCHA. No form was submitted; universal agent failure is not established.
 - **Privacy Policy link points to a web.archive.org snapshot from 2025** rather than the live policy.
 - **Missing:** physical/HQ address, business hours, response time.
 - **Repetitive headings** ("Contact us," "Book a discovery session" twice).
+
+## Rescan — October 30, 2026
+
+Previously open findings: **4**. Open after this rescan: **4**. Each top-level bullet counts once; grouped concerns are not split into extra issues. Verified resolutions and audit corrections are excluded. Remaining subjective recommendations are not independently proven defects.
+
+Source: [https://integrisit.com/contact/](https://integrisit.com/contact/). Fresh HTML returned HTTP 200; no forms were submitted.

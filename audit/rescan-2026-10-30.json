@@ -1,0 +1,1688 @@
+{
+  "scope": "24 previously reviewed Integris pages; flagged issues only",
+  "checked_at": "2026-10-30T09:43:35.727166-05:00",
+  "method": "Fresh initial HTML with Cache-Control no-cache; browser inspection of Contact and Privacy. No form submissions.",
+  "before": 149,
+  "after": 137,
+  "verified_resolutions": 7,
+  "audit_corrections": 6,
+  "pages": [
+    {
+      "page": "01-home",
+      "url": "https://integrisit.com/",
+      "before": 7,
+      "after": 7,
+      "resolved": 0,
+      "corrections": 0,
+      "html_sha256": "ac10c970c99bc47d9c889762991e057d1a33fcf51bc5e7a26f9b5530fed59a9c"
+    },
+    {
+      "page": "02-solutions",
+      "url": "https://integrisit.com/services/",
+      "before": 7,
+      "after": 7,
+      "resolved": 0,
+      "corrections": 0,
+      "html_sha256": "6950c701d4603b366f20f68fac4eef712a27dcf80e0df071011e7476f2fb2922"
+    },
+    {
+      "page": "03-managed-it",
+      "url": "https://integrisit.com/services/managed-it/",
+      "before": 10,
+      "after": 9,
+      "resolved": 0,
+      "corrections": 1,
+      "html_sha256": "6508de94885f87bea602173a2c9a38c11b808925b257a2fdefb81dcdb4727f7e"
+    },
+    {
+      "page": "04-core",
+      "url": "https://integrisit.com/services/core/",
+      "before": 7,
+      "after": 7,
+      "resolved": 0,
+      "corrections": 0,
+      "html_sha256": "e32528273bbe463421a3b8d8e7a0327d96af8ea451771e68916305d720d9d447"
+    },
+    {
+      "page": "05-cybersecurity",
+      "url": "https://integrisit.com/services/cybersecurity/",
+      "before": 8,
+      "after": 8,
+      "resolved": 0,
+      "corrections": 0,
+      "html_sha256": "3f8a4a41a2a765d211fb1306874dbc94b35e0dc669bd041f5a67518a56ea449d"
+    },
+    {
+      "page": "06-managed-cloud",
+      "url": "https://integrisit.com/services/managed-infrastructure-services/",
+      "before": 7,
+      "after": 7,
+      "resolved": 0,
+      "corrections": 0,
+      "html_sha256": "b16f396fb45c7cff993dd55bd69db6fc80c288d50b6ea2446d3ec8823eed19a4"
+    },
+    {
+      "page": "07-advisory",
+      "url": "https://integrisit.com/services/advisory/",
+      "before": 5,
+      "after": 5,
+      "resolved": 0,
+      "corrections": 0,
+      "html_sha256": "e8a0990245d4445bb67d005d9d0ce6e81ab7f7ae5714408b6cce0fd4f332c091"
+    },
+    {
+      "page": "08-industries",
+      "url": "https://integrisit.com/industries/",
+      "before": 6,
+      "after": 6,
+      "resolved": 0,
+      "corrections": 0,
+      "html_sha256": "8f8c50095d23dbc789dcd2f96842682918945a1cfddd217acdd188b734eaeb6e"
+    },
+    {
+      "page": "09-financial-institutions",
+      "url": "https://integrisit.com/industries/financial-services/",
+      "before": 6,
+      "after": 6,
+      "resolved": 0,
+      "corrections": 0,
+      "html_sha256": "5f217bdecdc1ca296f35b44abc458876c6e62c5a3988e94e1e30f814dd2ac1af"
+    },
+    {
+      "page": "12-law-firms",
+      "url": "https://integrisit.com/industries/legal/",
+      "before": 7,
+      "after": 3,
+      "resolved": 1,
+      "corrections": 3,
+      "html_sha256": "8f22aa40ca04794d4f060ff2311e462e3f93fbaa00db91eb7b15e79166404cbf"
+    },
+    {
+      "page": "13-manufacturers",
+      "url": "https://integrisit.com/industries/manufacturing-it-services/",
+      "before": 8,
+      "after": 7,
+      "resolved": 0,
+      "corrections": 1,
+      "html_sha256": "c1ed14d3451aea213799f4f8f835d858d21c9358628f4a66f608dff07e0f1831"
+    },
+    {
+      "page": "14-highly-regulated-industries",
+      "url": "https://integrisit.com/industries/highly-regulated-industries/",
+      "before": 6,
+      "after": 5,
+      "resolved": 1,
+      "corrections": 0,
+      "html_sha256": "3bef08680f79246f21f197ff1c8de6c13fa860e8bd8cb12e89520146444b2349"
+    },
+    {
+      "page": "15-pricing",
+      "url": "https://integrisit.com/services/managed-it/pricing/",
+      "before": 5,
+      "after": 5,
+      "resolved": 0,
+      "corrections": 0,
+      "html_sha256": "91392ded6b49283329b516d6bddc1ff1e81f31a96ea6a6a86049af0cfe9fa5f4"
+    },
+    {
+      "page": "16-resources",
+      "url": "https://integrisit.com/resources/",
+      "before": 7,
+      "after": 4,
+      "resolved": 3,
+      "corrections": 0,
+      "html_sha256": "a09fdc48a916d4f2c2dbf8805d8b6c345ad4f2ccb7cbcf9fdb1c3cd4edcb7f44"
+    },
+    {
+      "page": "17-about",
+      "url": "https://integrisit.com/about/",
+      "before": 6,
+      "after": 6,
+      "resolved": 0,
+      "corrections": 0,
+      "html_sha256": "452a7854a77f5854663d7f65b339aaa44623a74f1cee6aab4e1d65e7e207d5d6"
+    },
+    {
+      "page": "18-careers",
+      "url": "https://integrisit.com/about/careers/",
+      "before": 4,
+      "after": 4,
+      "resolved": 0,
+      "corrections": 0,
+      "html_sha256": "9cc9481938a9c55eae8fd078ac279a03f5f6a90a258b89ac62f290a89e66b4f5"
+    },
+    {
+      "page": "19-leadership",
+      "url": "https://integrisit.com/about/leadership/",
+      "before": 5,
+      "after": 5,
+      "resolved": 0,
+      "corrections": 1,
+      "html_sha256": "6a466651fa3fc8023b5e89443c0408f6e40c2153b67dc05b6d9df7e4d663c4c7",
+      "restored_open": 1
+    },
+    {
+      "page": "20-partners",
+      "url": "https://integrisit.com/our-partners/",
+      "before": 5,
+      "after": 5,
+      "resolved": 0,
+      "corrections": 0,
+      "html_sha256": "d27ebd836319cbc7e777b79e9241c9de0438043601287fbedad9756aa7273bd4"
+    },
+    {
+      "page": "21-media-center",
+      "url": "https://integrisit.com/about/press/",
+      "before": 5,
+      "after": 4,
+      "resolved": 1,
+      "corrections": 0,
+      "html_sha256": "efeb2b84048307a1d6df6d5cd1f5692ac654b2442988026e1af0b6bfc472ca07"
+    },
+    {
+      "page": "22-locations",
+      "url": "https://integrisit.com/our-locations/",
+      "before": 7,
+      "after": 7,
+      "resolved": 0,
+      "corrections": 0,
+      "html_sha256": "d450724e4a389f21b2fb3890f23b2f6722789ac992732c18ed70cd45441a5cea"
+    },
+    {
+      "page": "23-contact",
+      "url": "https://integrisit.com/contact/",
+      "before": 4,
+      "after": 4,
+      "resolved": 0,
+      "corrections": 0,
+      "html_sha256": "90b57857ffb0d3626531873555c2ad41412c16f374f94524122db5f02952f828"
+    },
+    {
+      "page": "24-client-support",
+      "url": "https://integrisit.com/support/",
+      "before": 6,
+      "after": 5,
+      "resolved": 1,
+      "corrections": 0,
+      "html_sha256": "025989e0855cb4266e1a3fa3bf5e71a4e4e8759493e28d63f591494740e74e26"
+    },
+    {
+      "page": "25-terms-and-conditions",
+      "url": "https://integrisit.com/terms-and-conditions/",
+      "before": 5,
+      "after": 5,
+      "resolved": 0,
+      "corrections": 0,
+      "html_sha256": "b302fb4348ef4566727e241105d895e3d1d5157900a7a6cf043368a075e75979"
+    },
+    {
+      "page": "26-privacy-statement",
+      "url": "https://integrisit.com/privacy-statement-us/",
+      "before": 6,
+      "after": 6,
+      "resolved": 0,
+      "corrections": 0,
+      "html_sha256": "4a37bbfce472eadead95c43d229289fefcb317e79587aa03c9dd8ee899e943be"
+    }
+  ],
+  "findings": [
+    {
+      "page": "01-home",
+      "item": 1,
+      "status": "open",
+      "original_finding": "**Testimonials heading over blog posts:** \"Listen to what our clients have to say\" is followed by blog article cards, not client quotes.",
+      "current_finding": "**Testimonials heading over blog posts:** \"Listen to what our clients have to say\" is followed by blog article cards, not client quotes.",
+      "note": "Rechecked against the current page; the recorded symptom or editorial recommendation remains.",
+      "source_url": "https://integrisit.com/"
+    },
+    {
+      "page": "01-home",
+      "item": 2,
+      "status": "previously_resolved",
+      "original_finding": "~~Typo:~~ ~~\"Introducing CORE **Manage** AI and IT Services\" \u2014 named \"CORE Managed AI\" elsewhere.~~ \u2705 **Fixed** (rescan October 29, 1:13 pm).",
+      "current_finding": "~~Typo:~~ ~~\"Introducing CORE **Manage** AI and IT Services\" \u2014 named \"CORE Managed AI\" elsewhere.~~ \u2705 **Fixed** (rescan October 29, 1:13 pm).",
+      "note": "Historical resolved entry retained; the current fetch did not contradict the earlier resolution.",
+      "source_url": "https://integrisit.com/"
+    },
+    {
+      "page": "01-home",
+      "item": 3,
+      "status": "open",
+      "original_finding": "**Metadata mismatch:** Title tag, og:title, meta description and og:description all say different things.",
+      "current_finding": "**Metadata mismatch:** Title tag, og:title, meta description and og:description all say different things.",
+      "note": "Rechecked against the current page; the recorded symptom or editorial recommendation remains.",
+      "source_url": "https://integrisit.com/"
+    },
+    {
+      "page": "01-home",
+      "item": 4,
+      "status": "open",
+      "original_finding": "**Links to removed pages (rescan October 29, 1:28 pm):** the industry list still links \"Community Banks\" and \"Credit Unions\" to their old URLs, which now forward to Financial Institutions. Point them straight at `/industries/financial-services/`.",
+      "current_finding": "**Links to removed pages (rescan October 29, 1:28 pm):** the industry list still links \"Community Banks\" and \"Credit Unions\" to their old URLs, which now forward to Financial Institutions. Point them straight at `/industries/financial-services/`.",
+      "note": "Rechecked against the current page; the recorded symptom or editorial recommendation remains.",
+      "source_url": "https://integrisit.com/"
+    },
+    {
+      "page": "01-home",
+      "item": 5,
+      "status": "open",
+      "original_finding": "**Unlinked industry:** \"Wealth Mgmt. Firms\" has no link; \"And more...\" reads as a placeholder.",
+      "current_finding": "**Unlinked industry:** \"Wealth Mgmt. Firms\" has no link; \"And more...\" reads as a placeholder.",
+      "note": "Rechecked against the current page; the recorded symptom or editorial recommendation remains.",
+      "source_url": "https://integrisit.com/"
+    },
+    {
+      "page": "01-home",
+      "item": 6,
+      "status": "open",
+      "original_finding": "**Unsourced claims:** \"Ahead of 95% of MSPs\" and \"#1 Rated MSP\" aren't explained on the page.",
+      "current_finding": "**Claim needs evidence:** the 95%-of-MSPs claim has no supporting population or methodology on the page. The Clutch ranking does have an August 2026 Leaders Matrix caption, so it is not treated as wholly unsourced.",
+      "note": "**Claim needs evidence:** the 95%-of-MSPs claim has no supporting population or methodology on the page. The Clutch ranking does have an August 2026 Leaders Matrix caption, so it is not treated as wholly unsourced.",
+      "source_url": "https://integrisit.com/"
+    },
+    {
+      "page": "01-home",
+      "item": 7,
+      "status": "open",
+      "original_finding": "**Stock-photo alt text** on a blog card (\"it's illustration only\"); several images have empty alt text.",
+      "current_finding": "**Stock-photo alt text** on a blog card (\"it's illustration only\"); several images have empty alt text.",
+      "note": "Rechecked against the current page; the recorded symptom or editorial recommendation remains.",
+      "source_url": "https://integrisit.com/"
+    },
+    {
+      "page": "01-home",
+      "item": 8,
+      "status": "open",
+      "original_finding": "**Missing specifics:** No named testimonials, case-study results, service levels or onboarding details on the homepage.",
+      "current_finding": "**Missing specifics:** No named testimonials, case-study results, service levels or onboarding details on the homepage.",
+      "note": "Rechecked against the current page; the recorded symptom or editorial recommendation remains.",
+      "source_url": "https://integrisit.com/"
+    },
+    {
+      "page": "02-solutions",
+      "item": 1,
+      "status": "open",
+      "original_finding": "**Thin content:** The five service cards show titles and links only \u2014 no description of what each includes.",
+      "current_finding": "**Thin content:** The five service cards show titles and links only \u2014 no description of what each includes.",
+      "note": "Rechecked against the current page; the recorded symptom or editorial recommendation remains.",
+      "source_url": "https://integrisit.com/services/"
+    },
+    {
+      "page": "02-solutions",
+      "item": 2,
+      "status": "open",
+      "original_finding": "**Undefined terms:** \"Fully managed\" and \"co-managed\" are named but not explained.",
+      "current_finding": "**Undefined terms:** \"Fully managed\" and \"co-managed\" are named but not explained.",
+      "note": "Rechecked against the current page; the recorded symptom or editorial recommendation remains.",
+      "source_url": "https://integrisit.com/services/"
+    },
+    {
+      "page": "02-solutions",
+      "item": 3,
+      "status": "open",
+      "original_finding": "**Three different offers:** The meta description promises a \"consultation,\" the CTA a \"free estimate,\" the body a \"discovery session.\"",
+      "current_finding": "**Three different offers:** The meta description promises a \"consultation,\" the CTA a \"free estimate,\" the body a \"discovery session.\"",
+      "note": "Rechecked against the current page; the recorded symptom or editorial recommendation remains.",
+      "source_url": "https://integrisit.com/services/"
+    },
+    {
+      "page": "02-solutions",
+      "item": 4,
+      "status": "open",
+      "original_finding": "**Pricing claim without pricing:** \"Full cost transparency\" but no figures on the page.",
+      "current_finding": "**Pricing claim without pricing:** \"Full cost transparency\" but no figures on the page.",
+      "note": "Rechecked against the current page; the recorded symptom or editorial recommendation remains.",
+      "source_url": "https://integrisit.com/services/"
+    },
+    {
+      "page": "02-solutions",
+      "item": 5,
+      "status": "open",
+      "original_finding": "**Label/URL mismatch:** \"Managed Cloud\" points to `/managed-infrastructure-services/`.",
+      "current_finding": "**Label/URL mismatch:** \"Managed Cloud\" points to `/managed-infrastructure-services/`.",
+      "note": "Rechecked against the current page; the recorded symptom or editorial recommendation remains.",
+      "source_url": "https://integrisit.com/services/"
+    },
+    {
+      "page": "02-solutions",
+      "item": 6,
+      "status": "open",
+      "original_finding": "**og:type \"article\"** on a services landing page.",
+      "current_finding": "**og:type \"article\"** on a services landing page.",
+      "note": "Rechecked against the current page; the recorded symptom or editorial recommendation remains.",
+      "source_url": "https://integrisit.com/services/"
+    },
+    {
+      "page": "02-solutions",
+      "item": 7,
+      "status": "open",
+      "original_finding": "**Missing alt text** on the Managed IT and CORE card images.",
+      "current_finding": "**Missing alt text** on the Managed IT and CORE card images.",
+      "note": "Rechecked against the current page; the recorded symptom or editorial recommendation remains.",
+      "source_url": "https://integrisit.com/services/"
+    },
+    {
+      "page": "03-managed-it",
+      "item": 1,
+      "status": "open",
+      "original_finding": "**Placeholder text:** The \"Managed IT services overview\" section contains **lorem ipsum**.",
+      "current_finding": "**Placeholder text:** The \"Managed IT services overview\" section contains **lorem ipsum**.",
+      "note": "Rechecked against the current page; the recorded symptom or editorial recommendation remains.",
+      "source_url": "https://integrisit.com/services/managed-it/"
+    },
+    {
+      "page": "03-managed-it",
+      "item": 2,
+      "status": "open",
+      "original_finding": "**Contradictory number:** \"115\" endpoints vs \"115k\" \u2014 off by roughly 1,000\u00d7.",
+      "current_finding": "**Contradictory number:** \"115\" endpoints vs \"115k\" \u2014 off by roughly 1,000\u00d7.",
+      "note": "Rechecked against the current page; the recorded symptom or editorial recommendation remains.",
+      "source_url": "https://integrisit.com/services/managed-it/"
+    },
+    {
+      "page": "03-managed-it",
+      "item": 3,
+      "status": "open",
+      "original_finding": "**Empty testimonials section:** \"Listen to what our clients have to say\" shows no testimonials to the AI.",
+      "current_finding": "**Empty testimonials section:** \"Listen to what our clients have to say\" shows no testimonials to the AI.",
+      "note": "Rechecked against the current page; the recorded symptom or editorial recommendation remains.",
+      "source_url": "https://integrisit.com/services/managed-it/"
+    },
+    {
+      "page": "03-managed-it",
+      "item": 4,
+      "status": "open",
+      "original_finding": "**Pricing section without prices;** the calculator doesn't appear in readable text.",
+      "current_finding": "**Pricing section without prices;** the calculator doesn't appear in readable text.",
+      "note": "Rechecked against the current page; the recorded symptom or editorial recommendation remains.",
+      "source_url": "https://integrisit.com/services/managed-it/"
+    },
+    {
+      "page": "03-managed-it",
+      "item": 5,
+      "status": "open",
+      "original_finding": "**Video** appears only as a raw file URL with no description or transcript.",
+      "current_finding": "**Video** appears only as a raw file URL with no description or transcript.",
+      "note": "Rechecked against the current page; the recorded symptom or editorial recommendation remains.",
+      "source_url": "https://integrisit.com/services/managed-it/"
+    },
+    {
+      "page": "03-managed-it",
+      "item": 6,
+      "status": "open",
+      "original_finding": "**Unsupported claims:** \"Top-rated,\" \"Zero-Downtime Focus,\" \"Guaranteed outcomes via SLAs\" (no SLA terms), \"Most MSPs can't pass the audits,\" and the \"average business\" statistic (no sample or source). \"Verified outcomes\" sits over counts that aren't outcomes.",
+      "current_finding": "**Unsupported claims:** \"Top-rated,\" \"Zero-Downtime Focus,\" \"Guaranteed outcomes via SLAs\" (no SLA terms), \"Most MSPs can't pass the audits,\" and the \"average business\" statistic (no sample or source). \"Verified outcomes\" sits over counts that aren't outcomes.",
+      "note": "Rechecked against the current page; the recorded symptom or editorial recommendation remains.",
+      "source_url": "https://integrisit.com/services/managed-it/"
+    },
+    {
+      "page": "03-managed-it",
+      "item": 7,
+      "status": "open",
+      "original_finding": "**Undated awards** (Inc. 500, MSP Select).",
+      "current_finding": "**Partly dated awards:** MSP Select is explicitly labeled 2025; the Inc. 500 claim still refers to multiple years without naming those years.",
+      "note": "**Partly dated awards:** MSP Select is explicitly labeled 2025; the Inc. 500 claim still refers to multiple years without naming those years.",
+      "source_url": "https://integrisit.com/services/managed-it/"
+    },
+    {
+      "page": "03-managed-it",
+      "item": 8,
+      "status": "open",
+      "original_finding": "**Formatting artifacts:** repeated \"Expand\" labels in the FAQ.",
+      "current_finding": "**Formatting artifacts:** repeated \"Expand\" labels in the FAQ.",
+      "note": "Rechecked against the current page; the recorded symptom or editorial recommendation remains.",
+      "source_url": "https://integrisit.com/services/managed-it/"
+    },
+    {
+      "page": "03-managed-it",
+      "item": 9,
+      "status": "open",
+      "original_finding": "**Link to a removed page (rescan October 29, 1:28 pm):** still links to `/industries/community-banks/`, which now forwards to Financial Institutions.",
+      "current_finding": "**Link to a removed page (rescan October 29, 1:28 pm):** still links to `/industries/community-banks/`, which now forwards to Financial Institutions.",
+      "note": "Rechecked against the current page; the recorded symptom or editorial recommendation remains.",
+      "source_url": "https://integrisit.com/services/managed-it/"
+    },
+    {
+      "page": "03-managed-it",
+      "item": 10,
+      "status": "corrected",
+      "original_finding": "**\"Brand New\" Strategic IT tier** has no detailed description.",
+      "current_finding": "~~\"Brand New\" Strategic IT tier has no detailed description.~~ \u2705 **Audit correction** (October 30, 2026). Strategic IT has a readable description, six scope bullets and a Learn more link. The earlier no-description finding is not supported.",
+      "note": "Strategic IT has a readable description, six scope bullets and a Learn more link. The earlier no-description finding is not supported.",
+      "source_url": "https://integrisit.com/services/managed-it/"
+    },
+    {
+      "page": "04-core",
+      "item": 1,
+      "status": "previously_resolved",
+      "original_finding": "~~Dropped character:~~ ~~a sentence begins \"s AI adoption grows\u2026\" (missing \"A\").~~ \u2705 **Fixed** (rescan October 29, 1:13 pm).",
+      "current_finding": "~~Dropped character:~~ ~~a sentence begins \"s AI adoption grows\u2026\" (missing \"A\").~~ \u2705 **Fixed** (rescan October 29, 1:13 pm).",
+      "note": "Historical resolved entry retained; the current fetch did not contradict the earlier resolution.",
+      "source_url": "https://integrisit.com/services/core/"
+    },
+    {
+      "page": "04-core",
+      "item": 2,
+      "status": "open",
+      "original_finding": "**FAQ grouping:** all nine FAQs sit under \"Productivity and operational efficiency,\" including security, SharePoint and AI questions.",
+      "current_finding": "**FAQ grouping:** all nine FAQs sit under \"Productivity and operational efficiency,\" including security, SharePoint and AI questions.",
+      "note": "Rechecked against the current page; the recorded symptom or editorial recommendation remains.",
+      "source_url": "https://integrisit.com/services/core/"
+    },
+    {
+      "page": "04-core",
+      "item": 3,
+      "status": "open",
+      "original_finding": "**Unclear package boundaries:** Advanced Security is in CORE but MFA and email security appear only in CORE+.",
+      "current_finding": "**Unclear package boundaries:** Advanced Security is in CORE but MFA and email security appear only in CORE+.",
+      "note": "Rechecked against the current page; the recorded symptom or editorial recommendation remains.",
+      "source_url": "https://integrisit.com/services/core/"
+    },
+    {
+      "page": "04-core",
+      "item": 4,
+      "status": "open",
+      "original_finding": "**Scope tension:** main copy promises SharePoint cleanup/oversharing reduction; the FAQ says larger remediation is scoped separately.",
+      "current_finding": "**Scope tension:** main copy promises SharePoint cleanup/oversharing reduction; the FAQ says larger remediation is scoped separately.",
+      "note": "Rechecked against the current page; the recorded symptom or editorial recommendation remains.",
+      "source_url": "https://integrisit.com/services/core/"
+    },
+    {
+      "page": "04-core",
+      "item": 5,
+      "status": "open",
+      "original_finding": "**Missing:** pricing, contract terms, SLA response times, onboarding timeline.",
+      "current_finding": "**Missing:** pricing, contract terms, SLA response times, onboarding timeline.",
+      "note": "Rechecked against the current page; the recorded symptom or editorial recommendation remains.",
+      "source_url": "https://integrisit.com/services/core/"
+    },
+    {
+      "page": "04-core",
+      "item": 6,
+      "status": "open",
+      "original_finding": "**Unsupported:** 2.8x ROI has no methodology; Shamrock isn't described (industry, size); \"your business is protected\" overstates.",
+      "current_finding": "**Unsupported:** 2.8x ROI has no methodology; Shamrock isn't described (industry, size); \"your business is protected\" overstates.",
+      "note": "Rechecked against the current page; the recorded symptom or editorial recommendation remains.",
+      "source_url": "https://integrisit.com/services/core/"
+    },
+    {
+      "page": "04-core",
+      "item": 7,
+      "status": "open",
+      "original_finding": "**Naming drift:** image alt text says \"CORE Managed AI and IT Services,\" the nav says \"CORE Intelligent Managed Services,\" the og:title says \"CORE Managed Services.\"",
+      "current_finding": "**Naming drift:** image alt text says \"CORE Managed AI and IT Services,\" the nav says \"CORE Intelligent Managed Services,\" the og:title says \"CORE Managed Services.\"",
+      "note": "Rechecked against the current page; the recorded symptom or editorial recommendation remains.",
+      "source_url": "https://integrisit.com/services/core/"
+    },
+    {
+      "page": "04-core",
+      "item": 8,
+      "status": "open",
+      "original_finding": "**Leftover UI:** stray \"Expand\" labels.",
+      "current_finding": "**Leftover UI:** stray \"Expand\" labels.",
+      "note": "Rechecked against the current page; the recorded symptom or editorial recommendation remains.",
+      "source_url": "https://integrisit.com/services/core/"
+    },
+    {
+      "page": "05-cybersecurity",
+      "item": 1,
+      "status": "open",
+      "original_finding": "**FAQ #19 answers the wrong question:** asked what each security package includes, it answers with general Managed IT benefits.",
+      "current_finding": "**FAQ #19 answers the wrong question:** asked what each security package includes, it answers with general Managed IT benefits.",
+      "note": "Rechecked against the current page; the recorded symptom or editorial recommendation remains.",
+      "source_url": "https://integrisit.com/services/cybersecurity/"
+    },
+    {
+      "page": "05-cybersecurity",
+      "item": 2,
+      "status": "open",
+      "original_finding": "**FAQ #22** asks about \"managed IT services,\" not security.",
+      "current_finding": "**FAQ #22** asks about \"managed IT services,\" not security.",
+      "note": "Rechecked against the current page; the recorded symptom or editorial recommendation remains.",
+      "source_url": "https://integrisit.com/services/cybersecurity/"
+    },
+    {
+      "page": "05-cybersecurity",
+      "item": 3,
+      "status": "open",
+      "original_finding": "**Package count conflict:** four offerings shown; FAQ #7 says three core packages.",
+      "current_finding": "**Package count conflict:** four offerings shown; FAQ #7 says three core packages.",
+      "note": "Rechecked against the current page; the recorded symptom or editorial recommendation remains.",
+      "source_url": "https://integrisit.com/services/cybersecurity/"
+    },
+    {
+      "page": "05-cybersecurity",
+      "item": 4,
+      "status": "open",
+      "original_finding": "**Size conflict:** cards say 25\u2013250 people; FAQ #2 says 25\u2013500 employees.",
+      "current_finding": "**Size conflict:** cards say 25\u2013250 people; FAQ #2 says 25\u2013500 employees.",
+      "note": "Rechecked against the current page; the recorded symptom or editorial recommendation remains.",
+      "source_url": "https://integrisit.com/services/cybersecurity/"
+    },
+    {
+      "page": "05-cybersecurity",
+      "item": 5,
+      "status": "open",
+      "original_finding": "**Empty testimonials** and a **\"Compare our services\" link with no comparison table** behind it.",
+      "current_finding": "**Empty testimonials** and a **\"Compare our services\" link with no comparison table** behind it.",
+      "note": "Rechecked against the current page; the recorded symptom or editorial recommendation remains.",
+      "source_url": "https://integrisit.com/services/cybersecurity/"
+    },
+    {
+      "page": "05-cybersecurity",
+      "item": 6,
+      "status": "open",
+      "original_finding": "**Timing:** \"in 60 days\" vs FAQ \"timelines vary.\"",
+      "current_finding": "**Timing:** \"in 60 days\" vs FAQ \"timelines vary.\"",
+      "note": "Rechecked against the current page; the recorded symptom or editorial recommendation remains.",
+      "source_url": "https://integrisit.com/services/cybersecurity/"
+    },
+    {
+      "page": "05-cybersecurity",
+      "item": 7,
+      "status": "open",
+      "original_finding": "**Unsupported:** \"Most MSPs can't pass the audits\u2026,\" \"certified security operations teams\" (no certs named), \"Verified outcomes\" (none shown).",
+      "current_finding": "**Unsupported:** \"Most MSPs can't pass the audits\u2026,\" \"certified security operations teams\" (no certs named), \"Verified outcomes\" (none shown).",
+      "note": "Rechecked against the current page; the recorded symptom or editorial recommendation remains.",
+      "source_url": "https://integrisit.com/services/cybersecurity/"
+    },
+    {
+      "page": "05-cybersecurity",
+      "item": 8,
+      "status": "open",
+      "original_finding": "**Copy errors:** ungrammatical Step 1; Steps 2\u20133 run together; empty/keyword alt text on article images.",
+      "current_finding": "**Copy errors:** ungrammatical Step 1; Steps 2\u20133 run together; empty/keyword alt text on article images.",
+      "note": "Rechecked against the current page; the recorded symptom or editorial recommendation remains.",
+      "source_url": "https://integrisit.com/services/cybersecurity/"
+    },
+    {
+      "page": "06-managed-cloud",
+      "item": 1,
+      "status": "open",
+      "original_finding": "**Outdated partner tier:** \"Microsoft Gold Partner\" is a legacy tier \u2014 Microsoft replaced Gold/Silver with Solutions Partner designations in 2022. (Note: the Partners page alt text says \"Microsoft Solution Partner.\")",
+      "current_finding": "**Outdated partner tier:** \"Microsoft Gold Partner\" is a legacy tier \u2014 Microsoft replaced Gold/Silver with Solutions Partner designations in 2022. (Note: the Partners page alt text says \"Microsoft Solution Partner.\")",
+      "note": "Rechecked against the current page; the recorded symptom or editorial recommendation remains.",
+      "source_url": "https://integrisit.com/services/managed-infrastructure-services/"
+    },
+    {
+      "page": "06-managed-cloud",
+      "item": 2,
+      "status": "open",
+      "original_finding": "**Three names for one service:** \"Managed Cloud\" (nav), \"Managed Cloud Infrastructure Services\" (title), \"Managed Infrastructure Services\" (meta/URL). Title tag also missing a space before the pipe.",
+      "current_finding": "**Three names for one service:** \"Managed Cloud\" (nav), \"Managed Cloud Infrastructure Services\" (title), \"Managed Infrastructure Services\" (meta/URL). Title tag also missing a space before the pipe.",
+      "note": "Rechecked against the current page; the recorded symptom or editorial recommendation remains.",
+      "source_url": "https://integrisit.com/services/managed-infrastructure-services/"
+    },
+    {
+      "page": "06-managed-cloud",
+      "item": 3,
+      "status": "open",
+      "original_finding": "**Absolute guarantees without terms:** \"100% power uptime,\" \"recovery within two hours\" \u2014 no SLA conditions; RTO/RPO mentioned without values.",
+      "current_finding": "**Absolute guarantees without terms:** \"100% power uptime,\" \"recovery within two hours\" \u2014 no SLA conditions; RTO/RPO mentioned without values.",
+      "note": "Rechecked against the current page; the recorded symptom or editorial recommendation remains.",
+      "source_url": "https://integrisit.com/services/managed-infrastructure-services/"
+    },
+    {
+      "page": "06-managed-cloud",
+      "item": 4,
+      "status": "open",
+      "original_finding": "**\"Flat-rate\" vs usage-based Azure costs** isn't reconciled; Pricing link goes to the Managed IT pricing page.",
+      "current_finding": "**\"Flat-rate\" vs usage-based Azure costs** isn't reconciled; Pricing link goes to the Managed IT pricing page.",
+      "note": "Rechecked against the current page; the recorded symptom or editorial recommendation remains.",
+      "source_url": "https://integrisit.com/services/managed-infrastructure-services/"
+    },
+    {
+      "page": "06-managed-cloud",
+      "item": 5,
+      "status": "open",
+      "original_finding": "**Empty testimonials and missing comparison table.**",
+      "current_finding": "**Empty testimonials and missing comparison table.**",
+      "note": "Rechecked against the current page; the recorded symptom or editorial recommendation remains.",
+      "source_url": "https://integrisit.com/services/managed-infrastructure-services/"
+    },
+    {
+      "page": "06-managed-cloud",
+      "item": 6,
+      "status": "open",
+      "original_finding": "**\"SOC 2 Type II certification\"** \u2014 SOC 2 is an attestation report, not a certification.",
+      "current_finding": "**\"SOC 2 Type II certification\"** \u2014 SOC 2 is an attestation report, not a certification.",
+      "note": "Rechecked against the current page; the recorded symptom or editorial recommendation remains.",
+      "source_url": "https://integrisit.com/services/managed-infrastructure-services/"
+    },
+    {
+      "page": "06-managed-cloud",
+      "item": 7,
+      "status": "open",
+      "original_finding": "**Off-topic resource:** a water-treatment article in a cloud page's resource list.",
+      "current_finding": "**Off-topic resource:** a water-treatment article in a cloud page's resource list.",
+      "note": "Rechecked against the current page; the recorded symptom or editorial recommendation remains.",
+      "source_url": "https://integrisit.com/services/managed-infrastructure-services/"
+    },
+    {
+      "page": "07-advisory",
+      "item": 1,
+      "status": "previously_resolved",
+      "original_finding": "~~Garbled sentence:~~ ~~\"Once we complete the assessment, done, we provide you with\u2026\"~~ \u2705 **Fixed** (rescan October 29, 1:13 pm).",
+      "current_finding": "~~Garbled sentence:~~ ~~\"Once we complete the assessment, done, we provide you with\u2026\"~~ \u2705 **Fixed** (rescan October 29, 1:13 pm).",
+      "note": "Historical resolved entry retained; the current fetch did not contradict the earlier resolution.",
+      "source_url": "https://integrisit.com/services/advisory/"
+    },
+    {
+      "page": "07-advisory",
+      "item": 2,
+      "status": "open",
+      "original_finding": "**Lowercase \"it consulting\"** in the meta description reads as the pronoun \"it.\"",
+      "current_finding": "**Lowercase \"it consulting\"** in the meta description reads as the pronoun \"it.\"",
+      "note": "Rechecked against the current page; the recorded symptom or editorial recommendation remains.",
+      "source_url": "https://integrisit.com/services/advisory/"
+    },
+    {
+      "page": "07-advisory",
+      "item": 3,
+      "status": "open",
+      "original_finding": "**Leftover UI and empty list items** (\"Expand,\" \"Read more,\" stray \"-\" bullets).",
+      "current_finding": "**Leftover UI and empty list items** (\"Expand,\" \"Read more,\" stray \"-\" bullets).",
+      "note": "Rechecked against the current page; the recorded symptom or editorial recommendation remains.",
+      "source_url": "https://integrisit.com/services/advisory/"
+    },
+    {
+      "page": "07-advisory",
+      "item": 4,
+      "status": "previously_resolved",
+      "original_finding": "~~Typo:~~ ~~\"work-from-anywhere-on any-device.\"~~ \u2705 **Fixed** (rescan October 29, 1:13 pm).",
+      "current_finding": "~~Typo:~~ ~~\"work-from-anywhere-on any-device.\"~~ \u2705 **Fixed** (rescan October 29, 1:13 pm).",
+      "note": "Historical resolved entry retained; the current fetch did not contradict the earlier resolution.",
+      "source_url": "https://integrisit.com/services/advisory/"
+    },
+    {
+      "page": "07-advisory",
+      "item": 5,
+      "status": "open",
+      "original_finding": "**RITA is vague** \u2014 the \"integrated suite\" isn't named or described.",
+      "current_finding": "**RITA is vague** \u2014 the \"integrated suite\" isn't named or described.",
+      "note": "Rechecked against the current page; the recorded symptom or editorial recommendation remains.",
+      "source_url": "https://integrisit.com/services/advisory/"
+    },
+    {
+      "page": "07-advisory",
+      "item": 6,
+      "status": "open",
+      "original_finding": "**Oldest service page:** last modified March 2026, before the CORE launch; doesn't mention CORE or AI advisory.",
+      "current_finding": "**CORE advisory connection remains unclear:** the page does mention deploying AI and now has an October 29 modified timestamp. It still does not explain a dedicated CORE advisory offer. The former March-date/no-AI assertion is corrected.",
+      "note": "**CORE advisory connection remains unclear:** the page does mention deploying AI and now has an October 29 modified timestamp. It still does not explain a dedicated CORE advisory offer. The former March-date/no-AI assertion is corrected.",
+      "source_url": "https://integrisit.com/services/advisory/"
+    },
+    {
+      "page": "07-advisory",
+      "item": 7,
+      "status": "open",
+      "original_finding": "**No proof:** no case studies, certifications or assessment deliverable samples.",
+      "current_finding": "**No proof:** no case studies, certifications or assessment deliverable samples.",
+      "note": "Rechecked against the current page; the recorded symptom or editorial recommendation remains.",
+      "source_url": "https://integrisit.com/services/advisory/"
+    },
+    {
+      "page": "08-industries",
+      "item": 1,
+      "status": "open",
+      "original_finding": "**Links to removed pages (rescan October 29, 1:28 pm):** the \"Community banks\" and \"Community credit unions\" blurbs link to `/industries/financial/` and `/industries/community-credit-unions/`. Both forward to Financial Institutions, but the page still presents them as separate industries. Merge them into one Financial Institutions entry linking to `/industries/financial-services/`.",
+      "current_finding": "**Links to removed pages (rescan October 29, 1:28 pm):** the \"Community banks\" and \"Community credit unions\" blurbs link to `/industries/financial/` and `/industries/community-credit-unions/`. Both forward to Financial Institutions, but the page still presents them as separate industries. Merge them into one Financial Institutions entry linking to `/industries/financial-services/`.",
+      "note": "Rechecked against the current page; the recorded symptom or editorial recommendation remains.",
+      "source_url": "https://integrisit.com/industries/"
+    },
+    {
+      "page": "08-industries",
+      "item": 2,
+      "status": "open",
+      "original_finding": "**Meta promises healthcare** \u2014 there's no healthcare section.",
+      "current_finding": "**Healthcare coverage is limited:** healthcare is named in the Highly Regulated Industries blurb, but there is no dedicated healthcare entry. This is a coverage recommendation, not a missing word.",
+      "note": "**Healthcare coverage is limited:** healthcare is named in the Highly Regulated Industries blurb, but there is no dedicated healthcare entry. This is a coverage recommendation, not a missing word.",
+      "source_url": "https://integrisit.com/industries/"
+    },
+    {
+      "page": "08-industries",
+      "item": 3,
+      "status": "open",
+      "original_finding": "**Thin content:** one or two sentences per industry, no proof.",
+      "current_finding": "**Thin content:** one or two sentences per industry, no proof.",
+      "note": "Rechecked against the current page; the recorded symptom or editorial recommendation remains.",
+      "source_url": "https://integrisit.com/industries/"
+    },
+    {
+      "page": "08-industries",
+      "item": 4,
+      "status": "open",
+      "original_finding": "**Unsupported superlatives:** \"highest level of service in the industry,\" \"best possible IT strategies.\"",
+      "current_finding": "**Unsupported superlatives:** \"highest level of service in the industry,\" \"best possible IT strategies.\"",
+      "note": "Rechecked against the current page; the recorded symptom or editorial recommendation remains.",
+      "source_url": "https://integrisit.com/industries/"
+    },
+    {
+      "page": "08-industries",
+      "item": 5,
+      "status": "open",
+      "original_finding": "**Pronoun slip** in the credit union blurb (\"Integris provides\u2026\" \u2192 \"They\u2026\").",
+      "current_finding": "**Pronoun slip** in the credit union blurb (\"Integris provides\u2026\" \u2192 \"They\u2026\").",
+      "note": "Rechecked against the current page; the recorded symptom or editorial recommendation remains.",
+      "source_url": "https://integrisit.com/industries/"
+    },
+    {
+      "page": "08-industries",
+      "item": 6,
+      "status": "open",
+      "original_finding": "**Heading hierarchy** skips from H2 to H4; dated (2018) social share image.",
+      "current_finding": "**Heading hierarchy** skips from H2 to H4; dated (2018) social share image.",
+      "note": "Rechecked against the current page; the recorded symptom or editorial recommendation remains.",
+      "source_url": "https://integrisit.com/industries/"
+    },
+    {
+      "page": "09-financial-institutions",
+      "item": 1,
+      "status": "previously_resolved",
+      "original_finding": "~~Circular canonical: the canonical pointed to the removed Credit Unions URL, which forwards back to this page.~~ \u2705 **Fixed** (rescan October 29, 1:38 pm). The canonical now points to this page.",
+      "current_finding": "~~Circular canonical: the canonical pointed to the removed Credit Unions URL, which forwards back to this page.~~ \u2705 **Fixed** (rescan October 29, 1:38 pm). The canonical now points to this page.",
+      "note": "Historical resolved entry retained; the current fetch did not contradict the earlier resolution.",
+      "source_url": "https://integrisit.com/industries/financial-services/"
+    },
+    {
+      "page": "09-financial-institutions",
+      "item": 2,
+      "status": "open",
+      "original_finding": "**Now the only banking page:** the Community Banks and Credit Unions pages forward here, but their named bank testimonials, client logos and banking-association partnerships weren't moved over.",
+      "current_finding": "**Banking proof is thin on this page:** no named bank/credit-union testimonial appears in the primary service copy. Bank-related articles and an Oakwood Bank story are linked in Resources; those links do not establish that historical testimonials were migrated.",
+      "note": "**Banking proof is thin on this page:** no named bank/credit-union testimonial appears in the primary service copy. Bank-related articles and an Oakwood Bank story are linked in Resources; those links do not establish that historical testimonials were migrated.",
+      "source_url": "https://integrisit.com/industries/financial-services/"
+    },
+    {
+      "page": "09-financial-institutions",
+      "item": 3,
+      "status": "previously_resolved",
+      "original_finding": "~~\"nofollow\" robots tag on a page meant to rank.~~ \u2705 **Fixed** (rescan October 29, 3:04 pm). The page is now \"index, follow.\"",
+      "current_finding": "~~\"nofollow\" robots tag on a page meant to rank.~~ \u2705 **Fixed** (rescan October 29, 3:04 pm). The page is now \"index, follow.\"",
+      "note": "Historical resolved entry retained; the current fetch did not contradict the earlier resolution.",
+      "source_url": "https://integrisit.com/industries/financial-services/"
+    },
+    {
+      "page": "09-financial-institutions",
+      "item": 4,
+      "status": "open",
+      "original_finding": "**Duplicated brand in og:title** (\"| Integris | Integris\").",
+      "current_finding": "**Duplicated brand in og:title** (\"| Integris | Integris\").",
+      "note": "Rechecked against the current page; the recorded symptom or editorial recommendation remains.",
+      "source_url": "https://integrisit.com/industries/financial-services/"
+    },
+    {
+      "page": "09-financial-institutions",
+      "item": 5,
+      "status": "open",
+      "original_finding": "**30 years vs 20+ years** on the same page.",
+      "current_finding": "**30 years vs 20+ years** on the same page.",
+      "note": "Rechecked against the current page; the recorded symptom or editorial recommendation remains.",
+      "source_url": "https://integrisit.com/industries/financial-services/"
+    },
+    {
+      "page": "09-financial-institutions",
+      "item": 6,
+      "status": "open",
+      "original_finding": "**\"Compare our services\"** anchor has no comparison table; testimonials are embedded video with no names or transcripts, so AI sees none.",
+      "current_finding": "**\"Compare our services\"** anchor has no comparison table; testimonials are embedded video with no names or transcripts, so AI sees none.",
+      "note": "Rechecked against the current page; the recorded symptom or editorial recommendation remains.",
+      "source_url": "https://integrisit.com/industries/financial-services/"
+    },
+    {
+      "page": "09-financial-institutions",
+      "item": 7,
+      "status": "open",
+      "original_finding": "**Formatting:** \"Expand\" under every FAQ; an empty Resources list item; item 02 body text formatted as a heading; one section written in first person as IT staff.",
+      "current_finding": "**Formatting:** \"Expand\" under every FAQ; an empty Resources list item; item 02 body text formatted as a heading; one section written in first person as IT staff.",
+      "note": "Rechecked against the current page; the recorded symptom or editorial recommendation remains.",
+      "source_url": "https://integrisit.com/industries/financial-services/"
+    },
+    {
+      "page": "09-financial-institutions",
+      "item": 8,
+      "status": "open",
+      "original_finding": "**Mismatched alt text** (e.g., an FFIEC image labeled \"True,And,False,Symbols\u2026\"); Victoria Flynn headshot has none.",
+      "current_finding": "**Mismatched alt text** (e.g., an FFIEC image labeled \"True,And,False,Symbols\u2026\"); Victoria Flynn headshot has none.",
+      "note": "Rechecked against the current page; the recorded symptom or editorial recommendation remains.",
+      "source_url": "https://integrisit.com/industries/financial-services/"
+    },
+    {
+      "page": "12-law-firms",
+      "item": 1,
+      "status": "resolved",
+      "original_finding": "**Unrendered placeholders in the cookie banner:** `{title}` and `{vendor_count}` \u2014 visible to AI in the page text.",
+      "current_finding": "~~Unrendered placeholders in the cookie banner: `{title}` and `{vendor_count}` \u2014 visible to AI in the page text.~~ \u2705 **Verified resolved** (October 30, 2026). Neither cookie placeholder is present in the fresh HTML; the page loads Osano instead.",
+      "note": "Neither cookie placeholder is present in the fresh HTML; the page loads Osano instead.",
+      "source_url": "https://integrisit.com/industries/legal/"
+    },
+    {
+      "page": "12-law-firms",
+      "item": 2,
+      "status": "corrected",
+      "original_finding": "**Stray Google Tag Manager URL** at the top of the content.",
+      "current_finding": "~~Stray Google Tag Manager URL at the top of the content.~~ \u2705 **Audit correction** (October 30, 2026). The GTM URL belongs to a noscript tracking iframe, not stray editorial content.",
+      "note": "The GTM URL belongs to a noscript tracking iframe, not stray editorial content.",
+      "source_url": "https://integrisit.com/industries/legal/"
+    },
+    {
+      "page": "12-law-firms",
+      "item": 3,
+      "status": "previously_resolved",
+      "original_finding": "~~Name mismatch:~~ ~~testimonial says \"Briana Suchof,\" firm is \"Ross & Suchoff.\"~~ \u2705 **Fixed** (rescan October 29, 1:13 pm).",
+      "current_finding": "~~Name mismatch:~~ ~~testimonial says \"Briana Suchof,\" firm is \"Ross & Suchoff.\"~~ \u2705 **Fixed** (rescan October 29, 1:13 pm).",
+      "note": "Historical resolved entry retained; the current fetch did not contradict the earlier resolution.",
+      "source_url": "https://integrisit.com/industries/legal/"
+    },
+    {
+      "page": "12-law-firms",
+      "item": 4,
+      "status": "open",
+      "original_finding": "**Wrong alt text:** CBA logo alt text is \"Print.\"",
+      "current_finding": "**Wrong alt text:** CBA logo alt text is \"Print.\"",
+      "note": "Rechecked against the current page; the recorded symptom or editorial recommendation remains.",
+      "source_url": "https://integrisit.com/industries/legal/"
+    },
+    {
+      "page": "12-law-firms",
+      "item": 5,
+      "status": "corrected",
+      "original_finding": "**Empty heading:** \"All the solutions and consulting you need\" has no body text.",
+      "current_finding": "~~Empty heading: \"All the solutions and consulting you need\" has no body text.~~ \u2705 **Audit correction** (October 30, 2026). The section is followed by readable descriptions of fully managed services, assessments and flexible services.",
+      "note": "The section is followed by readable descriptions of fully managed services, assessments and flexible services.",
+      "source_url": "https://integrisit.com/industries/legal/"
+    },
+    {
+      "page": "12-law-firms",
+      "item": 6,
+      "status": "corrected",
+      "original_finding": "**RITA diagram** explained only in alt text.",
+      "current_finding": "~~RITA diagram explained only in alt text.~~ \u2705 **Audit correction** (October 30, 2026). The RITA section includes a readable explanation of assessment, security controls and centralized monitoring.",
+      "note": "The RITA section includes a readable explanation of assessment, security controls and centralized monitoring.",
+      "source_url": "https://integrisit.com/industries/legal/"
+    },
+    {
+      "page": "12-law-firms",
+      "item": 7,
+      "status": "open",
+      "original_finding": "**Unsupported:** CSAT/NPS without numbers; survey of 1,000 unexplained; \"24/7 support\" without detail.",
+      "current_finding": "**Proof needs qualification:** CSAT/NPS claims lack figures on the page; the 1,000-person survey is mentioned in an article teaser without methodology here. Support terms are not detailed.",
+      "note": "**Proof needs qualification:** CSAT/NPS claims lack figures on the page; the 1,000-person survey is mentioned in an article teaser without methodology here. Support terms are not detailed.",
+      "source_url": "https://integrisit.com/industries/legal/"
+    },
+    {
+      "page": "12-law-firms",
+      "item": 8,
+      "status": "open",
+      "original_finding": "**Lacks AI/CORE messaging** \u2014 last updated April 2026, before the CORE launch.",
+      "current_finding": "**No dedicated CORE service explanation:** legal AI is mentioned in linked resource teasers. The main service narrative does not describe CORE. The modified timestamp is October 29, not April.",
+      "note": "**No dedicated CORE service explanation:** legal AI is mentioned in linked resource teasers. The main service narrative does not describe CORE. The modified timestamp is October 29, not April.",
+      "source_url": "https://integrisit.com/industries/legal/"
+    },
+    {
+      "page": "13-manufacturers",
+      "item": 1,
+      "status": "open",
+      "original_finding": "**Dated report:** promotes the **2025** report in late 2026 (Press page shows a June 2026 manufacturing report exists).",
+      "current_finding": "**Dated report:** promotes the **2025** report in late 2026 (Press page shows a June 2026 manufacturing report exists).",
+      "note": "Rechecked against the current page; the recorded symptom or editorial recommendation remains.",
+      "source_url": "https://integrisit.com/industries/manufacturing-it-services/"
+    },
+    {
+      "page": "13-manufacturers",
+      "item": 2,
+      "status": "open",
+      "original_finding": "**Possibly stale CMMC article** (rules from October 2024).",
+      "current_finding": "**Possibly stale CMMC article** (rules from October 2024).",
+      "note": "Rechecked against the current page; the recorded symptom or editorial recommendation remains.",
+      "source_url": "https://integrisit.com/industries/manufacturing-it-services/"
+    },
+    {
+      "page": "13-manufacturers",
+      "item": 3,
+      "status": "open",
+      "original_finding": "**\"Free consultation\"** in meta vs \"discovery session\" in body.",
+      "current_finding": "**\"Free consultation\"** in meta vs \"discovery session\" in body.",
+      "note": "Rechecked against the current page; the recorded symptom or editorial recommendation remains.",
+      "source_url": "https://integrisit.com/industries/manufacturing-it-services/"
+    },
+    {
+      "page": "13-manufacturers",
+      "item": 4,
+      "status": "open",
+      "original_finding": "**Rendering artifacts:** raw meta tag lines in body text; alt text as filenames (\"bell-concierge-solid,\" \"manufacturingmockup\").",
+      "current_finding": "**Alt text artifacts remain:** examples include bell-concierge-solid and manufacturingmockup. Raw meta-tag text was not reproduced in the primary content on this rescan.",
+      "note": "**Alt text artifacts remain:** examples include bell-concierge-solid and manufacturingmockup. Raw meta-tag text was not reproduced in the primary content on this rescan.",
+      "source_url": "https://integrisit.com/industries/manufacturing-it-services/"
+    },
+    {
+      "page": "13-manufacturers",
+      "item": 5,
+      "status": "open",
+      "original_finding": "**Unsupported superlatives:** \"#1,\" \"leading,\" \"best-trained experts,\" \"state-of-the-art.\"",
+      "current_finding": "**Unsupported superlatives:** \"#1,\" \"leading,\" \"best-trained experts,\" \"state-of-the-art.\"",
+      "note": "Rechecked against the current page; the recorded symptom or editorial recommendation remains.",
+      "source_url": "https://integrisit.com/industries/manufacturing-it-services/"
+    },
+    {
+      "page": "13-manufacturers",
+      "item": 6,
+      "status": "open",
+      "original_finding": "**\"Level 2 certified provider\"** wording should be checked against how CMMC certification applies to an MSP.",
+      "current_finding": "**Certification scope needs a source:** the page calls Integris a Level 2 certified provider but does not identify the assessment scope or a verification source here. This is a documentation question, not a finding that certification is invalid.",
+      "note": "**Certification scope needs a source:** the page calls Integris a Level 2 certified provider but does not identify the assessment scope or a verification source here. This is a documentation question, not a finding that certification is invalid.",
+      "source_url": "https://integrisit.com/industries/manufacturing-it-services/"
+    },
+    {
+      "page": "13-manufacturers",
+      "item": 7,
+      "status": "corrected",
+      "original_finding": "**Empty heading:** \"Service that drives digital maturity\u2026\" has no body.",
+      "current_finding": "~~Empty heading: \"Service that drives digital maturity\u2026\" has no body.~~ \u2705 **Audit correction** (October 30, 2026). Readable managed-service, assessment and flexible-service descriptions follow the heading.",
+      "note": "Readable managed-service, assessment and flexible-service descriptions follow the heading.",
+      "source_url": "https://integrisit.com/industries/manufacturing-it-services/"
+    },
+    {
+      "page": "13-manufacturers",
+      "item": 8,
+      "status": "open",
+      "original_finding": "**No AI/CORE messaging.**",
+      "current_finding": "**No AI/CORE messaging.**",
+      "note": "Rechecked against the current page; the recorded symptom or editorial recommendation remains.",
+      "source_url": "https://integrisit.com/industries/manufacturing-it-services/"
+    },
+    {
+      "page": "14-highly-regulated-industries",
+      "item": 1,
+      "status": "open",
+      "original_finding": "**Copy reused from other pages:** refers to \"your nonprofit,\" \"your firm,\" and \"your bank\" in different sections.",
+      "current_finding": "**Copy reused from other pages:** refers to \"your nonprofit,\" \"your firm,\" and \"your bank\" in different sections.",
+      "note": "Rechecked against the current page; the recorded symptom or editorial recommendation remains.",
+      "source_url": "https://integrisit.com/industries/highly-regulated-industries/"
+    },
+    {
+      "page": "14-highly-regulated-industries",
+      "item": 2,
+      "status": "open",
+      "original_finding": "**A regulated-industries page that names no regulations.**",
+      "current_finding": "**A regulated-industries page that names no regulations.**",
+      "note": "Rechecked against the current page; the recorded symptom or editorial recommendation remains.",
+      "source_url": "https://integrisit.com/industries/highly-regulated-industries/"
+    },
+    {
+      "page": "14-highly-regulated-industries",
+      "item": 3,
+      "status": "resolved",
+      "original_finding": "**Cookie-banner placeholders** `{title}` / `{vendor_count}` and a stray GTM URL visible to AI.",
+      "current_finding": "~~Cookie-banner placeholders `{title}` / `{vendor_count}` and a stray GTM URL visible to AI.~~ \u2705 **Verified resolved** (October 30, 2026). Both cookie placeholders are absent. The remaining GTM reference is a normal noscript tracking iframe, not editorial copy.",
+      "note": "Both cookie placeholders are absent. The remaining GTM reference is a normal noscript tracking iframe, not editorial copy.",
+      "source_url": "https://integrisit.com/industries/highly-regulated-industries/"
+    },
+    {
+      "page": "14-highly-regulated-industries",
+      "item": 4,
+      "status": "open",
+      "original_finding": "**Unsupported:** \"industry-leading,\" \"airtight cybersecurity,\" \"unlock your full digital potential.\"",
+      "current_finding": "**Unsupported:** \"industry-leading,\" \"airtight cybersecurity,\" \"unlock your full digital potential.\"",
+      "note": "Rechecked against the current page; the recorded symptom or editorial recommendation remains.",
+      "source_url": "https://integrisit.com/industries/highly-regulated-industries/"
+    },
+    {
+      "page": "14-highly-regulated-industries",
+      "item": 5,
+      "status": "open",
+      "original_finding": "**\"Connect with our team\"** shows one person.",
+      "current_finding": "**\"Connect with our team\"** shows one person.",
+      "note": "Rechecked against the current page; the recorded symptom or editorial recommendation remains.",
+      "source_url": "https://integrisit.com/industries/highly-regulated-industries/"
+    },
+    {
+      "page": "14-highly-regulated-industries",
+      "item": 6,
+      "status": "open",
+      "original_finding": "**Last updated March 2026** \u2014 no AI/CORE or ISO 42001 messaging, which would be natural for regulated buyers.",
+      "current_finding": "**CORE/AI governance coverage is absent from the primary service narrative:** March 10 remains the page metadata date. The date alone is not proof the content is stale.",
+      "note": "**CORE/AI governance coverage is absent from the primary service narrative:** March 10 remains the page metadata date. The date alone is not proof the content is stale.",
+      "source_url": "https://integrisit.com/industries/highly-regulated-industries/"
+    },
+    {
+      "page": "15-pricing",
+      "item": 1,
+      "status": "open",
+      "original_finding": "**The calculator is invisible to AI.** It doesn't appear in the page text, so an AI asked \"how much does Integris cost?\" has nothing to answer with from this page.",
+      "current_finding": "**No numerical prices in the initial HTML:** the calculator relies on an embedded application. This says what a non-JavaScript reader receives; it does not establish that the calculator is broken for human visitors.",
+      "note": "**No numerical prices in the initial HTML:** the calculator relies on an embedded application. This says what a non-JavaScript reader receives; it does not establish that the calculator is broken for human visitors.",
+      "source_url": "https://integrisit.com/services/managed-it/pricing/"
+    },
+    {
+      "page": "15-pricing",
+      "item": 2,
+      "status": "open",
+      "original_finding": "**CTAs with no visible destination** (calculator, discovery session).",
+      "current_finding": "**Calculator and booking routes depend on scripts:** no calculator fields or numeric estimate appear in the initial HTML. Agent-assisted or human browser use may differ.",
+      "note": "**Calculator and booking routes depend on scripts:** no calculator fields or numeric estimate appear in the initial HTML. Agent-assisted or human browser use may differ.",
+      "source_url": "https://integrisit.com/services/managed-it/pricing/"
+    },
+    {
+      "page": "15-pricing",
+      "item": 3,
+      "status": "open",
+      "original_finding": "**Truncated testimonials** ending in ellipses.",
+      "current_finding": "**Truncated testimonials** ending in ellipses.",
+      "note": "Rechecked against the current page; the recorded symptom or editorial recommendation remains.",
+      "source_url": "https://integrisit.com/services/managed-it/pricing/"
+    },
+    {
+      "page": "15-pricing",
+      "item": 4,
+      "status": "open",
+      "original_finding": "**Generic copy:** \"true partnership,\" \"ahead of the curve,\" \"whatever it takes.\"",
+      "current_finding": "**Generic copy:** \"true partnership,\" \"ahead of the curve,\" \"whatever it takes.\"",
+      "note": "Rechecked against the current page; the recorded symptom or editorial recommendation remains.",
+      "source_url": "https://integrisit.com/services/managed-it/pricing/"
+    },
+    {
+      "page": "15-pricing",
+      "item": 5,
+      "status": "open",
+      "original_finding": "**Only Managed IT pricing** \u2014 the main nav \"Pricing\" link is used site-wide, including from CORE, Cloud and Security pages, but those offerings aren't covered.",
+      "current_finding": "**Only Managed IT pricing** \u2014 the main nav \"Pricing\" link is used site-wide, including from CORE, Cloud and Security pages, but those offerings aren't covered.",
+      "note": "Rechecked against the current page; the recorded symptom or editorial recommendation remains.",
+      "source_url": "https://integrisit.com/services/managed-it/pricing/"
+    },
+    {
+      "page": "16-resources",
+      "item": 1,
+      "status": "resolved",
+      "original_finding": "**Only one case study** visible \u2014 thin proof for a company of Integris's size.",
+      "current_finding": "~~Only one case study visible \u2014 thin proof for a company of Integris's size.~~ \u2705 **Verified resolved** (October 30, 2026). The Case studies section now lists Rensa Filtration, dated October 30, and Shamrock.",
+      "note": "The Case studies section now lists Rensa Filtration, dated October 30, and Shamrock.",
+      "source_url": "https://integrisit.com/resources/"
+    },
+    {
+      "page": "16-resources",
+      "item": 2,
+      "status": "resolved",
+      "original_finding": "**Shamrock numbers differ by page:** \"80% productivity boost\" here vs \"four days to four hours\" and \"2.8x ROI\" on the CORE page.",
+      "current_finding": "~~Shamrock numbers differ by page: \"80% productivity boost\" here vs \"four days to four hours\" and \"2.8x ROI\" on the CORE page.~~ \u2705 **Verified resolved** (October 30, 2026). The Resources page no longer asserts the 80% figure. The CORE page still needs methodology for its ROI claim.",
+      "note": "The Resources page no longer asserts the 80% figure. The CORE page still needs methodology for its ROI claim.",
+      "source_url": "https://integrisit.com/resources/"
+    },
+    {
+      "page": "16-resources",
+      "item": 3,
+      "status": "open",
+      "original_finding": "**Meta promises \"tech training\"** \u2014 none on the page.",
+      "current_finding": "**Meta promises \"tech training\"** \u2014 none on the page.",
+      "note": "Rechecked against the current page; the recorded symptom or editorial recommendation remains.",
+      "source_url": "https://integrisit.com/resources/"
+    },
+    {
+      "page": "16-resources",
+      "item": 4,
+      "status": "open",
+      "original_finding": "**H1 (\"IT Insights\") \u2260 title (\"Resources\").**",
+      "current_finding": "**H1 (\"IT Insights\") \u2260 title (\"Resources\").**",
+      "note": "Rechecked against the current page; the recorded symptom or editorial recommendation remains.",
+      "source_url": "https://integrisit.com/resources/"
+    },
+    {
+      "page": "16-resources",
+      "item": 5,
+      "status": "open",
+      "original_finding": "**Events section lists no events.**",
+      "current_finding": "**Events require another route:** this section links to Explore events but does not list events in its own readable content. The linked events subdomain was outside this rescan.",
+      "note": "**Events require another route:** this section links to Explore events but does not list events in its own readable content. The linked events subdomain was outside this rescan.",
+      "source_url": "https://integrisit.com/resources/"
+    },
+    {
+      "page": "16-resources",
+      "item": 6,
+      "status": "open",
+      "original_finding": "**Newsletter section shows no form fields** to AI.",
+      "current_finding": "**Newsletter section shows no form fields** to AI.",
+      "note": "Rechecked against the current page; the recorded symptom or editorial recommendation remains.",
+      "source_url": "https://integrisit.com/resources/"
+    },
+    {
+      "page": "16-resources",
+      "item": 7,
+      "status": "resolved",
+      "original_finding": "**Date mismatch:** modified August 19 but shows posts from October.",
+      "current_finding": "~~Date mismatch: modified August 19 but shows posts from October.~~ \u2705 **Verified resolved** (October 30, 2026). article:modified_time is now October 30, 2026, later than the October article dates shown.",
+      "note": "article:modified_time is now October 30, 2026, later than the October article dates shown.",
+      "source_url": "https://integrisit.com/resources/"
+    },
+    {
+      "page": "17-about",
+      "item": 1,
+      "status": "open",
+      "original_finding": "**History confusion across the site:** this page says founded **2021**; other pages say **20+ years** and **30+ years**. An AI may report any of these. (The Leadership page explains the lineage \u2014 Domain founded 1997 \u2014 but this page doesn't.)",
+      "current_finding": "**History confusion across the site:** this page says founded **2021**; other pages say **20+ years** and **30+ years**. An AI may report any of these. (The Leadership page explains the lineage \u2014 Domain founded 1997 \u2014 but this page doesn't.)",
+      "note": "Rechecked against the current page; the recorded symptom or editorial recommendation remains.",
+      "source_url": "https://integrisit.com/about/"
+    },
+    {
+      "page": "17-about",
+      "item": 2,
+      "status": "open",
+      "original_finding": "**No AI/CORE story** on the About page despite AI being the homepage headline.",
+      "current_finding": "**No AI/CORE story** on the About page despite AI being the homepage headline.",
+      "note": "Rechecked against the current page; the recorded symptom or editorial recommendation remains.",
+      "source_url": "https://integrisit.com/about/"
+    },
+    {
+      "page": "17-about",
+      "item": 3,
+      "status": "open",
+      "original_finding": "**Missing basics:** headquarters address, employee count, client count, office count, certifications.",
+      "current_finding": "**Missing basics:** headquarters address, employee count, client count, office count, certifications.",
+      "note": "Rechecked against the current page; the recorded symptom or editorial recommendation remains.",
+      "source_url": "https://integrisit.com/about/"
+    },
+    {
+      "page": "17-about",
+      "item": 4,
+      "status": "open",
+      "original_finding": "**Award names hidden in images:** most badges have empty alt text, so AI can't name them.",
+      "current_finding": "**Award names hidden in images:** most badges have empty alt text, so AI can't name them.",
+      "note": "Rechecked against the current page; the recorded symptom or editorial recommendation remains.",
+      "source_url": "https://integrisit.com/about/"
+    },
+    {
+      "page": "17-about",
+      "item": 5,
+      "status": "open",
+      "original_finding": "**Unsupported superlatives:** \"the best managed IT solutions provider\" (meta), \"a national leader.\"",
+      "current_finding": "**Unsupported superlatives:** \"the best managed IT solutions provider\" (meta), \"a national leader.\"",
+      "note": "Rechecked against the current page; the recorded symptom or editorial recommendation remains.",
+      "source_url": "https://integrisit.com/about/"
+    },
+    {
+      "page": "17-about",
+      "item": 6,
+      "status": "open",
+      "original_finding": "**Grammar:** meta description \"offers the best \u2026 provider to businesses.\"",
+      "current_finding": "**Grammar:** meta description \"offers the best \u2026 provider to businesses.\"",
+      "note": "Rechecked against the current page; the recorded symptom or editorial recommendation remains.",
+      "source_url": "https://integrisit.com/about/"
+    },
+    {
+      "page": "18-careers",
+      "item": 1,
+      "status": "open",
+      "original_finding": "**No job listings visible to AI.** \"Open positions\" is followed by the sales \"Book a discovery session\" block. The job board is likely an embedded widget AI can't read \u2014 so AI can't tell candidates what roles exist.",
+      "current_finding": "**No job listings visible to AI.** \"Open positions\" is followed by the sales \"Book a discovery session\" block. The job board is likely an embedded widget AI can't read \u2014 so AI can't tell candidates what roles exist.",
+      "note": "Rechecked against the current page; the recorded symptom or editorial recommendation remains.",
+      "source_url": "https://integrisit.com/about/careers/"
+    },
+    {
+      "page": "18-careers",
+      "item": 2,
+      "status": "open",
+      "original_finding": "**Sales CTA on a careers page** \u2014 mixed audience.",
+      "current_finding": "**Sales CTA on a careers page** \u2014 mixed audience.",
+      "note": "Rechecked against the current page; the recorded symptom or editorial recommendation remains.",
+      "source_url": "https://integrisit.com/about/careers/"
+    },
+    {
+      "page": "18-careers",
+      "item": 3,
+      "status": "open",
+      "original_finding": "**Missing:** salary ranges (despite \"competitive salaries\" in meta), remote/hybrid policy, locations, application process, EEO statement.",
+      "current_finding": "**Missing:** salary ranges (despite \"competitive salaries\" in meta), remote/hybrid policy, locations, application process, EEO statement.",
+      "note": "Rechecked against the current page; the recorded symptom or editorial recommendation remains.",
+      "source_url": "https://integrisit.com/about/careers/"
+    },
+    {
+      "page": "18-careers",
+      "item": 4,
+      "status": "open",
+      "original_finding": "**Unverified:** \"the most client-focused, high-performing, future-ready MSP in the country.\"",
+      "current_finding": "**Unverified:** \"the most client-focused, high-performing, future-ready MSP in the country.\"",
+      "note": "Rechecked against the current page; the recorded symptom or editorial recommendation remains.",
+      "source_url": "https://integrisit.com/about/careers/"
+    },
+    {
+      "page": "19-leadership",
+      "item": 1,
+      "status": "open",
+      "original_finding": "**\"Bio*Expand*\"** leftover toggle label in every bio.",
+      "current_finding": "**\"Bio*Expand*\"** leftover toggle label in every bio.",
+      "note": "Rechecked against the current page; the recorded symptom or editorial recommendation remains.",
+      "source_url": "https://integrisit.com/about/leadership/"
+    },
+    {
+      "page": "19-leadership",
+      "item": 2,
+      "status": "open",
+      "original_finding": "**Typos:** ~~\"ConverageOne\"~~ and ~~\"President on Integris\"~~ and ~~\"vertical\"~~ \u2705 **fixed** (rescan October 29, 1:13 pm). Still open: \"excelling Integris' future-ready service model.\"",
+      "current_finding": "**Copy issues remain:** excelling Integris is still present, and the CRO biography currently says across vertical. Earlier corrections to ConvergeOne and President at Integris remain visible.",
+      "note": "Previously uncounted because the mixed bullet contained a resolved checkmark. excelling Integris and across vertical are still present; restored as one open finding.",
+      "source_url": "https://integrisit.com/about/leadership/"
+    },
+    {
+      "page": "19-leadership",
+      "item": 3,
+      "status": "open",
+      "original_finding": "**Meta description** says \"cybersecurity solutions\" \u2014 the team's story is managed services, AI and growth.",
+      "current_finding": "**Meta description** says \"cybersecurity solutions\" \u2014 the team's story is managed services, AI and growth.",
+      "note": "Rechecked against the current page; the recorded symptom or editorial recommendation remains.",
+      "source_url": "https://integrisit.com/about/leadership/"
+    },
+    {
+      "page": "19-leadership",
+      "item": 4,
+      "status": "open",
+      "original_finding": "**Duplicate Bajwa bio** for CEO and Executive Chairman.",
+      "current_finding": "**Duplicate Bajwa bio** for CEO and Executive Chairman.",
+      "note": "Rechecked against the current page; the recorded symptom or editorial recommendation remains.",
+      "source_url": "https://integrisit.com/about/leadership/"
+    },
+    {
+      "page": "19-leadership",
+      "item": 5,
+      "status": "open",
+      "original_finding": "**Missing alt text** on Ross Sardi's headshot.",
+      "current_finding": "**Missing alt text** on Ross Sardi's headshot.",
+      "note": "Rechecked against the current page; the recorded symptom or editorial recommendation remains.",
+      "source_url": "https://integrisit.com/about/leadership/"
+    },
+    {
+      "page": "19-leadership",
+      "item": 6,
+      "status": "corrected",
+      "original_finding": "**Useful for AI:** this is the only page that explains the 1997 \u2192 2021 lineage, which resolves the \"how old is Integris?\" confusion elsewhere.",
+      "current_finding": "~~Useful for AI: this is the only page that explains the 1997 \u2192 2021 lineage, which resolves the \"how old is Integris?\" confusion elsewhere.~~ \u2705 **Audit correction** (October 30, 2026). The lineage explanation is a strength, not an issue; removed from the open-finding total.",
+      "note": "The lineage explanation is a strength, not an issue; removed from the open-finding total.",
+      "source_url": "https://integrisit.com/about/leadership/"
+    },
+    {
+      "page": "20-partners",
+      "item": 1,
+      "status": "open",
+      "original_finding": "**Partner names exist only in image alt text** \u2014 there's no readable text naming partners or what each does with Integris.",
+      "current_finding": "**Partner names exist only in image alt text** \u2014 there's no readable text naming partners or what each does with Integris.",
+      "note": "Rechecked against the current page; the recorded symptom or editorial recommendation remains.",
+      "source_url": "https://integrisit.com/our-partners/"
+    },
+    {
+      "page": "20-partners",
+      "item": 2,
+      "status": "open",
+      "original_finding": "**No AI partners listed** (e.g., OpenAI, Anthropic, Microsoft Copilot specialization) even though the CORE page says Integris deploys Copilot, ChatGPT and Claude.",
+      "current_finding": "**No AI partners listed** (e.g., OpenAI, Anthropic, Microsoft Copilot specialization) even though the CORE page says Integris deploys Copilot, ChatGPT and Claude.",
+      "note": "Rechecked against the current page; the recorded symptom or editorial recommendation remains.",
+      "source_url": "https://integrisit.com/our-partners/"
+    },
+    {
+      "page": "20-partners",
+      "item": 3,
+      "status": "open",
+      "original_finding": "**Tier info inconsistent:** only Dell, Microsoft and Veeam show tiers; Clio's alt text is the raw string \"clioaffiliatepartner.\"",
+      "current_finding": "**Tier info inconsistent:** only Dell, Microsoft and Veeam show tiers; Clio's alt text is the raw string \"clioaffiliatepartner.\"",
+      "note": "Rechecked against the current page; the recorded symptom or editorial recommendation remains.",
+      "source_url": "https://integrisit.com/our-partners/"
+    },
+    {
+      "page": "20-partners",
+      "item": 4,
+      "status": "open",
+      "original_finding": "**Microsoft \"Solution Partner\" here vs \"Gold Partner\" on the Managed Cloud page.**",
+      "current_finding": "**Microsoft \"Solution Partner\" here vs \"Gold Partner\" on the Managed Cloud page.**",
+      "note": "Rechecked against the current page; the recorded symptom or editorial recommendation remains.",
+      "source_url": "https://integrisit.com/our-partners/"
+    },
+    {
+      "page": "20-partners",
+      "item": 5,
+      "status": "open",
+      "original_finding": "**Thin:** no examples, outcomes or dates; og:type \"article\" with a 4-minute read for a logo grid.",
+      "current_finding": "**Thin:** no examples, outcomes or dates; og:type \"article\" with a 4-minute read for a logo grid.",
+      "note": "Rechecked against the current page; the recorded symptom or editorial recommendation remains.",
+      "source_url": "https://integrisit.com/our-partners/"
+    },
+    {
+      "page": "21-media-center",
+      "item": 1,
+      "status": "open",
+      "original_finding": "**\"News coverage\" promised, none shown** \u2014 only Integris-issued releases.",
+      "current_finding": "**\"News coverage\" promised, none shown** \u2014 only Integris-issued releases.",
+      "note": "Rechecked against the current page; the recorded symptom or editorial recommendation remains.",
+      "source_url": "https://integrisit.com/about/press/"
+    },
+    {
+      "page": "21-media-center",
+      "item": 2,
+      "status": "resolved",
+      "original_finding": "**Outdated fact sheet:** file name says June 2025.",
+      "current_finding": "~~Outdated fact sheet: file name says June 2025.~~ \u2705 **Verified resolved** (October 30, 2026). The June 2025 fact-sheet link is no longer present in the press-kit section. This confirms removal, not replacement of the PDF.",
+      "note": "The June 2025 fact-sheet link is no longer present in the press-kit section. This confirms removal, not replacement of the PDF.",
+      "source_url": "https://integrisit.com/about/press/"
+    },
+    {
+      "page": "21-media-center",
+      "item": 3,
+      "status": "open",
+      "original_finding": "**International expansion** (Australia, NZ, Philippines via First Focus) appears here but nowhere else on the main site \u2014 the homepage and About still describe a U.S.-only footprint.",
+      "current_finding": "**Main company pages still emphasize a U.S. footprint:** international expansion appears in press releases and the Leadership biography now mentions the First Focus acquisition. The earlier only-in-press assertion is too broad.",
+      "note": "**Main company pages still emphasize a U.S. footprint:** international expansion appears in press releases and the Leadership biography now mentions the First Focus acquisition. The earlier only-in-press assertion is too broad.",
+      "source_url": "https://integrisit.com/about/press/"
+    },
+    {
+      "page": "21-media-center",
+      "item": 4,
+      "status": "open",
+      "original_finding": "**Unrelated og:image** (\"degraw-txcpa.jpeg,\" 2022).",
+      "current_finding": "**Unrelated og:image** (\"degraw-txcpa.jpeg,\" 2022).",
+      "note": "Rechecked against the current page; the recorded symptom or editorial recommendation remains.",
+      "source_url": "https://integrisit.com/about/press/"
+    },
+    {
+      "page": "21-media-center",
+      "item": 5,
+      "status": "open",
+      "original_finding": "**No named press contact** or response time.",
+      "current_finding": "**No named press contact** or response time.",
+      "note": "Rechecked against the current page; the recorded symptom or editorial recommendation remains.",
+      "source_url": "https://integrisit.com/about/press/"
+    },
+    {
+      "page": "22-locations",
+      "item": 1,
+      "status": "open",
+      "original_finding": "**Seven offices use a TechMD email** (help@techmd.com) \u2014 an AI giving support instructions may route people to a legacy brand.",
+      "current_finding": "**Seven offices use a TechMD email** (help@techmd.com) \u2014 an AI giving support instructions may route people to a legacy brand.",
+      "note": "Rechecked against the current page; the recorded symptom or editorial recommendation remains.",
+      "source_url": "https://integrisit.com/our-locations/"
+    },
+    {
+      "page": "22-locations",
+      "item": 2,
+      "status": "open",
+      "original_finding": "**Five different support numbers** with no explanation of which clients use which.",
+      "current_finding": "**Five different support numbers** with no explanation of which clients use which.",
+      "note": "Rechecked against the current page; the recorded symptom or editorial recommendation remains.",
+      "source_url": "https://integrisit.com/our-locations/"
+    },
+    {
+      "page": "22-locations",
+      "item": 3,
+      "status": "open",
+      "original_finding": "**City headings vs addresses:** Dallas \u2192 Bedford; Houston \u2192 Spring; Ocean City \u2192 Ocean Pines; Costa Mesa slug is \"orange-county-ca.\"",
+      "current_finding": "**Metro labels need context:** Dallas uses a Bedford address, Houston a Spring address, Ocean City an Ocean Pines address, and Costa Mesa an Orange County slug. These may be intentional metro labels; explain them rather than treating them as wrong addresses.",
+      "note": "**Metro labels need context:** Dallas uses a Bedford address, Houston a Spring address, Ocean City an Ocean Pines address, and Costa Mesa an Orange County slug. These may be intentional metro labels; explain them rather than treating them as wrong addresses.",
+      "source_url": "https://integrisit.com/our-locations/"
+    },
+    {
+      "page": "22-locations",
+      "item": 4,
+      "status": "open",
+      "original_finding": "**Only U.S. offices** \u2014 the First Focus acquisition (Australia, NZ, Philippines) isn't reflected.",
+      "current_finding": "**Only U.S. offices** \u2014 the First Focus acquisition (Australia, NZ, Philippines) isn't reflected.",
+      "note": "Rechecked against the current page; the recorded symptom or editorial recommendation remains.",
+      "source_url": "https://integrisit.com/our-locations/"
+    },
+    {
+      "page": "22-locations",
+      "item": 5,
+      "status": "open",
+      "original_finding": "**Syracuse and Wichita** have no location page links unlike the others.",
+      "current_finding": "**Syracuse and Wichita** have no location page links unlike the others.",
+      "note": "Rechecked against the current page; the recorded symptom or editorial recommendation remains.",
+      "source_url": "https://integrisit.com/our-locations/"
+    },
+    {
+      "page": "22-locations",
+      "item": 6,
+      "status": "open",
+      "original_finding": "**\"24/7/365\"** appears only in the meta description; no hours anywhere.",
+      "current_finding": "**\"24/7/365\"** appears only in the meta description; no hours anywhere.",
+      "note": "Rechecked against the current page; the recorded symptom or editorial recommendation remains.",
+      "source_url": "https://integrisit.com/our-locations/"
+    },
+    {
+      "page": "22-locations",
+      "item": 7,
+      "status": "open",
+      "original_finding": "**Office count (18) isn't stated on the homepage or About page,** where \"offices across the US\" is all AI gets.",
+      "current_finding": "**Office count (18) isn't stated on the homepage or About page,** where \"offices across the US\" is all AI gets.",
+      "note": "Rechecked against the current page; the recorded symptom or editorial recommendation remains.",
+      "source_url": "https://integrisit.com/our-locations/"
+    },
+    {
+      "page": "23-contact",
+      "item": 1,
+      "status": "open",
+      "original_finding": "**The form is invisible to AI.** No form fields appear in the page text; the booking section likely relies on an embedded widget. Text refers to submitting a phone number and SMS opt-in, but no field is visible.",
+      "current_finding": "**Contact fields are absent from the initial HTML:** in a JavaScript-enabled browser the HubSpot iframe rendered name, email, company and enquiry fields, optional phone, and reCAPTCHA. No form was submitted; universal agent failure is not established.",
+      "note": "**Contact fields are absent from the initial HTML:** in a JavaScript-enabled browser the HubSpot iframe rendered name, email, company and enquiry fields, optional phone, and reCAPTCHA. No form was submitted; universal agent failure is not established.",
+      "source_url": "https://integrisit.com/contact/"
+    },
+    {
+      "page": "23-contact",
+      "item": 2,
+      "status": "open",
+      "original_finding": "**Privacy Policy link points to a web.archive.org snapshot from 2025** rather than the live policy.",
+      "current_finding": "**Privacy Policy link points to a web.archive.org snapshot from 2025** rather than the live policy.",
+      "note": "Rechecked against the current page; the recorded symptom or editorial recommendation remains.",
+      "source_url": "https://integrisit.com/contact/"
+    },
+    {
+      "page": "23-contact",
+      "item": 3,
+      "status": "open",
+      "original_finding": "**Missing:** physical/HQ address, business hours, response time.",
+      "current_finding": "**Missing:** physical/HQ address, business hours, response time.",
+      "note": "Rechecked against the current page; the recorded symptom or editorial recommendation remains.",
+      "source_url": "https://integrisit.com/contact/"
+    },
+    {
+      "page": "23-contact",
+      "item": 4,
+      "status": "open",
+      "original_finding": "**Repetitive headings** (\"Contact us,\" \"Book a discovery session\" twice).",
+      "current_finding": "**Repetitive headings** (\"Contact us,\" \"Book a discovery session\" twice).",
+      "note": "Rechecked against the current page; the recorded symptom or editorial recommendation remains.",
+      "source_url": "https://integrisit.com/contact/"
+    },
+    {
+      "page": "24-client-support",
+      "item": 1,
+      "status": "open",
+      "original_finding": "**No support hours or response times** for any channel.",
+      "current_finding": "**No support hours or response times** for any channel.",
+      "note": "Rechecked against the current page; the recorded symptom or editorial recommendation remains.",
+      "source_url": "https://integrisit.com/support/"
+    },
+    {
+      "page": "24-client-support",
+      "item": 2,
+      "status": "resolved",
+      "original_finding": "**Cookie-banner placeholders** `{title}` / `{vendor_count}`, duplicated consent block, and a stray GTM URL visible in page text.",
+      "current_finding": "~~Cookie-banner placeholders `{title}` / `{vendor_count}`, duplicated consent block, and a stray GTM URL visible in page text.~~ \u2705 **Verified resolved** (October 30, 2026). Both cookie placeholders and the duplicated Complianz consent block are absent; Osano is loaded. The GTM reference is a tracking iframe.",
+      "note": "Both cookie placeholders and the duplicated Complianz consent block are absent; Osano is loaded. The GTM reference is a tracking iframe.",
+      "source_url": "https://integrisit.com/support/"
+    },
+    {
+      "page": "24-client-support",
+      "item": 3,
+      "status": "open",
+      "original_finding": "**pay.integrisit.com linked over http**, not https.",
+      "current_finding": "**pay.integrisit.com linked over http**, not https.",
+      "note": "Rechecked against the current page; the recorded symptom or editorial recommendation remains.",
+      "source_url": "https://integrisit.com/support/"
+    },
+    {
+      "page": "24-client-support",
+      "item": 4,
+      "status": "open",
+      "original_finding": "**Three support structures** (Integris, FID, TechMD) with different tools \u2014 confusing for a client asking AI \"how do I get Integris support?\"",
+      "current_finding": "**Multiple support routes need clear selection:** Integris, FID and TechMD still use different contacts and tools. The opening paragraph explicitly explains the exceptions, so this is a clarity recommendation rather than wholly unexplained routing.",
+      "note": "**Multiple support routes need clear selection:** Integris, FID and TechMD still use different contacts and tools. The opening paragraph explicitly explains the exceptions, so this is a clarity recommendation rather than wholly unexplained routing.",
+      "source_url": "https://integrisit.com/support/"
+    },
+    {
+      "page": "24-client-support",
+      "item": 5,
+      "status": "open",
+      "original_finding": "**Meta says \"through your local office\";** page describes centralized support.",
+      "current_finding": "**Meta says \"through your local office\";** page describes centralized support.",
+      "note": "Rechecked against the current page; the recorded symptom or editorial recommendation remains.",
+      "source_url": "https://integrisit.com/support/"
+    },
+    {
+      "page": "24-client-support",
+      "item": 6,
+      "status": "open",
+      "original_finding": "**Sales CTA** at the bottom of a client support page.",
+      "current_finding": "**Sales CTA** at the bottom of a client support page.",
+      "note": "Rechecked against the current page; the recorded symptom or editorial recommendation remains.",
+      "source_url": "https://integrisit.com/support/"
+    },
+    {
+      "page": "25-terms-and-conditions",
+      "item": 1,
+      "status": "open",
+      "original_finding": "**Date conflict:** visible \"last updated July 27, 2026\" vs metadata October 26, 2026.",
+      "current_finding": "**Date conflict:** visible \"last updated July 27, 2026\" vs metadata October 26, 2026.",
+      "note": "Rechecked against the current page; the recorded symptom or editorial recommendation remains.",
+      "source_url": "https://integrisit.com/terms-and-conditions/"
+    },
+    {
+      "page": "25-terms-and-conditions",
+      "item": 2,
+      "status": "open",
+      "original_finding": "**No state** for governing law or jurisdiction; no dispute-resolution process.",
+      "current_finding": "**Legal review recommendation:** governing law and courts are described only at country level. Whether a state or dispute process is needed was not legally assessed.",
+      "note": "**Legal review recommendation:** governing law and courts are described only at country level. Whether a state or dispute process is needed was not legally assessed.",
+      "source_url": "https://integrisit.com/terms-and-conditions/"
+    },
+    {
+      "page": "25-terms-and-conditions",
+      "item": 3,
+      "status": "open",
+      "original_finding": "**Liability cap** \"amounts paid\" is unclear for free site use.",
+      "current_finding": "**Legal clarity recommendation:** the amounts-paid liability wording may be unclear to a free website visitor. This rescan does not assess enforceability.",
+      "note": "**Legal clarity recommendation:** the amounts-paid liability wording may be unclear to a free website visitor. This rescan does not assess enforceability.",
+      "source_url": "https://integrisit.com/terms-and-conditions/"
+    },
+    {
+      "page": "25-terms-and-conditions",
+      "item": 4,
+      "status": "open",
+      "original_finding": "**No AI-specific terms** (e.g., AI crawling/training of site content), though the terms prohibit scraping \u2014 worth a deliberate decision given the goal of being well represented by AI.",
+      "current_finding": "**Editorial/legal decision:** no AI-specific permissions were found. Scraping restrictions remain. A separate AI clause is a policy choice, not an established legal requirement.",
+      "note": "**Editorial/legal decision:** no AI-specific permissions were found. Scraping restrictions remain. A separate AI clause is a policy choice, not an established legal requirement.",
+      "source_url": "https://integrisit.com/terms-and-conditions/"
+    },
+    {
+      "page": "25-terms-and-conditions",
+      "item": 5,
+      "status": "open",
+      "original_finding": "**Sales CTA** at the bottom of a legal page.",
+      "current_finding": "**Sales CTA** at the bottom of a legal page.",
+      "note": "Rechecked against the current page; the recorded symptom or editorial recommendation remains.",
+      "source_url": "https://integrisit.com/terms-and-conditions/"
+    },
+    {
+      "page": "26-privacy-statement",
+      "item": 1,
+      "status": "open",
+      "original_finding": "**Title/content mismatch:** nothing on broader data collection, use, sharing, retention, security or user rights \u2014 notable for a company selling ISO 27001/42001-certified security and AI governance.",
+      "current_finding": "**Title/content mismatch:** nothing on broader data collection, use, sharing, retention, security or user rights \u2014 notable for a company selling ISO 27001/42001-certified security and AI governance.",
+      "note": "Rechecked against the current page; the recorded symptom or editorial recommendation remains.",
+      "source_url": "https://integrisit.com/privacy-statement-us/"
+    },
+    {
+      "page": "26-privacy-statement",
+      "item": 2,
+      "status": "open",
+      "original_finding": "**No U.S. state privacy law references** despite the \"(US)\" label.",
+      "current_finding": "**No U.S. state privacy law references** despite the \"(US)\" label.",
+      "note": "Rechecked against the current page; the recorded symptom or editorial recommendation remains.",
+      "source_url": "https://integrisit.com/privacy-statement-us/"
+    },
+    {
+      "page": "26-privacy-statement",
+      "item": 3,
+      "status": "open",
+      "original_finding": "**No legal entity, effective date or privacy contact.**",
+      "current_finding": "**No legal entity, effective date or privacy contact.**",
+      "note": "Rechecked against the current page; the recorded symptom or editorial recommendation remains.",
+      "source_url": "https://integrisit.com/privacy-statement-us/"
+    },
+    {
+      "page": "26-privacy-statement",
+      "item": 4,
+      "status": "open",
+      "original_finding": "**Outdated references:** Internet Explorer and Netscape listed as popular browsers.",
+      "current_finding": "**Outdated references:** Internet Explorer and Netscape listed as popular browsers.",
+      "note": "Rechecked against the current page; the recorded symptom or editorial recommendation remains.",
+      "source_url": "https://integrisit.com/privacy-statement-us/"
+    },
+    {
+      "page": "26-privacy-statement",
+      "item": 5,
+      "status": "open",
+      "original_finding": "**Typos:** \"subprocessores,\" \"interested-based.\"",
+      "current_finding": "**Typos:** \"subprocessores,\" \"interested-based.\"",
+      "note": "Rechecked against the current page; the recorded symptom or editorial recommendation remains.",
+      "source_url": "https://integrisit.com/privacy-statement-us/"
+    },
+    {
+      "page": "26-privacy-statement",
+      "item": 6,
+      "status": "open",
+      "original_finding": "**Contact page links to a 2025 archived copy** of a privacy policy instead of this page.",
+      "current_finding": "**Contact page links to a 2025 archived copy** of a privacy policy instead of this page.",
+      "note": "Rechecked against the current page; the recorded symptom or editorial recommendation remains.",
+      "source_url": "https://integrisit.com/privacy-statement-us/"
+    }
+  ],
+  "limitations": [
+    "No new whole-site crawl or comparison rescore",
+    "No agent booking or form submission tested",
+    "Original narrative retained where not explicitly refreshed",
+    "Privacy search-reader snapshot differed from fresh HTML and browser",
+    "Some open findings are editorial recommendations, not verified defects"
+  ],
+  "technical_checks": {
+    "old-credit-unions-check.json": {
+      "url": "https://integrisit.com/industries/community-credit-unions/",
+      "final_url": "https://integrisit.com/industries/financial-services/",
+      "status": 200
+    },
+    "robots-check.json": {
+      "url": "https://integrisit.com/robots.txt",
+      "final_url": "https://integrisit.com/robots.txt",
+      "status": 200
+    },
+    "old-financial-check.json": {
+      "url": "https://integrisit.com/industries/financial/",
+      "final_url": "https://integrisit.com/industries/financial-services/",
+      "status": 200
+    },
+    "core-canonical-check.json": {
+      "url": "https://integrisit.com/services/core",
+      "final_url": "https://integrisit.com/services/core/",
+      "status": 200
+    },
+    "cloud-canonical-check.json": {
+      "url": "https://integrisit.com/services/managed-infrastructure-services",
+      "final_url": "https://integrisit.com/services/managed-infrastructure-services/",
+      "status": 200
+    },
+    "old-community-banks-check.json": {
+      "url": "https://integrisit.com/industries/community-banks/",
+      "final_url": "https://integrisit.com/industries/financial-services/",
+      "status": 200
+    },
+    "llms-check.json": {
+      "url": "https://integrisit.com/llms.txt",
+      "final_url": "https://integrisit.com/llms.txt",
+      "status": 200
+    }
+  },
+  "restored_open_count": 1
+}

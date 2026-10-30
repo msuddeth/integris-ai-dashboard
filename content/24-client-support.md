@@ -3,17 +3,21 @@
 **URL:** https://integrisit.com/support/
 **Captured:** October 29, 2026, through an AI web reader
 
-> Everything below is the AI's own reading of the page as served.
+**Last checked:** October 30, 2026 — targeted review of earlier flagged issues; original narrative retained except where explicitly refreshed.
+
+> Original reading: October 29, 2026. Flagged issues and metadata rechecked October 30, 2026 at 9:43 AM CDT. Earlier descriptive sections are retained unless corrected below. Initial HTML was read without JavaScript; browser-dependent results are identified explicitly.
 
 ## Metadata
 
 | Field | Value |
 |---|---|
-| Title tag / og:title | Client Support \| Integris |
+| Title tag | Client Support \| Integris |
+| og:title | Client Support \| Integris |
 | Meta description | Get the client support from Integris you need. We offer multiple ways of accessing support through your local office. |
 | Canonical | https://integrisit.com/support/ |
-| Robots | index, follow |
-| Last modified | 2026-09-29 |
+| Robots | index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1 |
+| Last modified | 2026-09-29T18:14:17+00:00 |
+| Rechecked | October 30, 2026 at 9:43 AM CDT |
 
 ## Heading structure
 
@@ -40,8 +44,14 @@
 ## Issues the AI flagged
 
 - **No support hours or response times** for any channel.
-- **Cookie-banner placeholders** `{title}` / `{vendor_count}`, duplicated consent block, and a stray GTM URL visible in page text.
+- ~~Cookie-banner placeholders `{title}` / `{vendor_count}`, duplicated consent block, and a stray GTM URL visible in page text.~~ ✅ **Verified resolved** (October 30, 2026). Both cookie placeholders and the duplicated Complianz consent block are absent; Osano is loaded. The GTM reference is a tracking iframe.
 - **pay.integrisit.com linked over http**, not https.
-- **Three support structures** (Integris, FID, TechMD) with different tools — confusing for a client asking AI "how do I get Integris support?"
+- **Multiple support routes need clear selection:** Integris, FID and TechMD still use different contacts and tools. The opening paragraph explicitly explains the exceptions, so this is a clarity recommendation rather than wholly unexplained routing.
 - **Meta says "through your local office";** page describes centralized support.
 - **Sales CTA** at the bottom of a client support page.
+
+## Rescan — October 30, 2026
+
+Previously open findings: **6**. Open after this rescan: **5**. Each top-level bullet counts once; grouped concerns are not split into extra issues. Verified resolutions and audit corrections are excluded. Remaining subjective recommendations are not independently proven defects.
+
+Source: [https://integrisit.com/support/](https://integrisit.com/support/). Fresh HTML returned HTTP 200; no forms were submitted.
